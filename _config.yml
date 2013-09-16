@@ -1,3 +1,4 @@
 name: Austin Hackers Academy
 markdown: redcarpet
 pygments: true
+timezone: America/Chicago
