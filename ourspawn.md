@@ -2,6 +2,7 @@
 layout: default
 title: Our Spawn
 categories: nav
+showinnav: true
 ---
 
 # {{ page.title }}

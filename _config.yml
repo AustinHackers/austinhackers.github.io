@@ -3,3 +3,8 @@ title: Austin Hackers Academy
 markdown: redcarpet
 pygments: true
 timezone: America/Chicago
+homepage: index.html
+meetingpage: meetings.html
+aboutuspage: aboutus.html
+mailinglistpage: mailinglist.html
+ourspawnpage: ourspawn.html

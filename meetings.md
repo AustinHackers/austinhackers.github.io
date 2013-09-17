@@ -2,6 +2,7 @@
 layout: default
 title: Meeting List
 categories: nav
+showinnav: true
 ---
 
 <div id="home">
