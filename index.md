@@ -2,7 +2,7 @@
 layout: default
 title: Home
 categories: nav
-showinnav: true
+showinnav: false
 ---
 
 # AHA! is Austinite Hackers of Austin!
