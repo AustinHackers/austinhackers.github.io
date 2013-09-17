@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Meeting List
+categories: nav
 ---
 
 <div id="home">

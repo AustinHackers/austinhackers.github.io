@@ -1,22 +1,21 @@
 ---
 layout: default
 title: Our Spawn
+categories: nav
 ---
 
-<div id="home">
-  <h1>{{ page.title }}</h1>
+# {{ page.title }}
 There have been a number of sibling groups that have spawned from AHA!,
 generally emulating the turbo-talk style meeting format and attempting
 to conform to an exclamation acronym of some form:
-<p>
-<li>[BAHA!][BAHA] Bay Area Hackers Association</li>
-<li>[CSHA][CSHA] - Colorado Springs Hackers Anonymous</li>
-<li>DOH! - Dallas Order of Hackers</li>
-<li>HAHA! - Houston Area Hackers Anonymous</li>
-<li>[NoVAH!][NoVAH] - Northern Virginia Hackers</li>
-<li>[PSSH!][PSSH] - Phoenix Secret Society of Hackers</li>
-<li>[SAHA!][SAHA] - San Antonio Hackers Association</li>
-</div>
+
+* [BAHA!][BAHA] Bay Area Hackers Association
+* [CSHA][CSHA] - Colorado Springs Hackers Anonymous
+* DOH! - Dallas Order of Hackers
+* HAHA! - Houston Area Hackers Anonymous
+* [NoVAH!][NoVAH] - Northern Virginia Hackers
+* [PSSH!][PSSH] - Phoenix Secret Society of Hackers
+* [SAHA!][SAHA] - San Antonio Hackers Association
 
 [BAHA]: http://baha.bitrot.info/
 [CSHA]: http://csha.reversing.us/
