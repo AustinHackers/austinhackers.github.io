@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meeting List
+title: Meeting Calendar
 categories: nav
 showinnav: true
 ---

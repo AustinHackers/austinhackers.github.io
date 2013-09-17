@@ -34,6 +34,13 @@ a:visited { color: #a0a; }
 /* Home
 /*
 /*****************************************************************************/
+blockquote {
+  text-indent: 25px;
+}
+ul {
+  margin-left: 50px;
+}
+
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;

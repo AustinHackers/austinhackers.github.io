@@ -31,11 +31,11 @@ in some form. Potential ways to contribute currently include:
 * Attending the meetings and **speaking** about what you're working on, what you're up to, etc.
 * Participation in discussions on the mailing list.
 
-*Note, it is up to The Mob™ to decide whether or not you are
-participating enough, and if it seems that you aren't the heavy-hand
-of the AHA Lords will come down upon you and you will be un-subbed from the
-email list, booted from IRC and/or heckled regularly if you continue to show up to the
-meetings.*
+> *Note, it is up to The Mob™ to decide whether or not you are
+> participating enough, and if it seems that you aren't the heavy-hand
+> of the AHA Lords will come down upon you and you will be un-subbed from the
+> email list, booted from IRC and/or heckled regularly if you continue to show up to the
+> meetings.*
 
 If you are from out of town, showing up to a meeting when you happen
 to be in town and then continuing to participate in discussions on the

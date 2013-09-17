@@ -18,6 +18,10 @@ to conform to an exclamation acronym of some form:
 * [PSSH!][PSSH] - Phoenix Secret Society of Hackers
 * [SAHA!][SAHA] - San Antonio Hackers Association
 
+Please note that we do not have direct affiliation to these groups and
+they may operate under their own rules and policies. Please review their
+websites for additional information.
+
 [BAHA]: http://baha.bitrot.info/
 [CSHA]: http://csha.reversing.us/
 [NoVAH]: http://novahackers.blogspot.com/
