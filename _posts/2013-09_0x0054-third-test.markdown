@@ -2,7 +2,7 @@
 layout: post
 title:  "Playing with categories"
 date:   2013-09-17 09:45:00
-category: meetings
+categories: meetings
 ---
 
 Messing with categories. Seeing what happens.
