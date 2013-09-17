@@ -14,5 +14,5 @@ lives in Austin, Texas or is willing to travel to Austin to attend the
 are, you will be asked to give a quick introduction and verify that you
 plan on attending the meetings.
 
-To subscribe or unsubscribe, visit the [mailman interface]({{ site.mailinglist }})
+To subscribe or unsubscribe, visit the [mailman interface](http://mail.metasploit.com/mailman/listinfo/aha)
 
