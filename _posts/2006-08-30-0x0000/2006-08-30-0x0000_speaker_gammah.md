@@ -1,6 +1,5 @@
 ---
 layout: meeting
-title:  "2006-08-30-0x0000 - Gammah"
 meetingid: "2006-08-30-0x0000"
 author: Gammah
 speakernotes: true

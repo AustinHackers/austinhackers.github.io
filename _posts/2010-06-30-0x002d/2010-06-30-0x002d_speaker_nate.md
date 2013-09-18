@@ -1,6 +1,5 @@
 ---
 layout: meeting
-title:  "2010-06-30-0x002d - Nate"
 meetingid: "2010-06-30-0x002d"
 author: Nate
 speakernotes: true

@@ -1,6 +1,5 @@
 ---
 layout: meeting
-title:  "2010-06-30-0x002d - $k1d"
 meetingid: "2010-06-30-0x002d"
 author: $k1dd
 speakernotes: true

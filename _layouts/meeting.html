@@ -11,7 +11,7 @@ layout: default
 <div class="post">
 <h2>Speakers</h2>
 {% for post in site.posts %}
-  {% if post.title %}
+  {% if post.meetingid %}
     {% if post.meetingid == page.title %}
       {% if post.speakernotes == true %}
         <p>

@@ -1,6 +1,5 @@
 ---
 layout: meeting
-title:  "2006-08-30-0x0000 - HD Moore"
 meetingid: "2006-08-30-0x0000"
 author: HD Moore
 speakernotes: true

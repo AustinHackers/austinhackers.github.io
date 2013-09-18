@@ -1,6 +1,5 @@
 ---
 layout: meeting
-title:  "2006-09-27-0x0001 - Aaron Portnoy"
 meetingid: "2006-09-27-0x0001"
 author: Aaron Portnoy
 speakernotes: true
