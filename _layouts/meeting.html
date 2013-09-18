@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<h2>{{ page.title }}</h2>
+<p class="meta">{{ page.date | date_to_string }}</p>
+
+<div class="post">
+{{ content }}
+</div>
+
+<div class="post">
+<h2>Speakers</h2>
+{% for post in site.posts %}
+  {% if post.title %}
+    {% if post.speakernotes == true %}
+      <p>
+      <h3>{{ post.author }}</h3>
+      {{ post.content | markdownify }}
+      <p>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+</div>
