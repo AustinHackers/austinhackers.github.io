@@ -12,17 +12,14 @@ layout: default
 <h2>Speakers</h2>
 {% for post in site.posts %}
   {% if post.title %}
-<!--  meeting id: {{ post.meetingid }}<br>
-  page.title: {{ page.title }}
-	<p> -->
-   {% if post.meetingid == page.title %}
-    {% if post.speakernotes == true %}
-      <p>
-      <h3>{{ post.author }}</h3>
-      {{ post.content | markdownify }}
-      <p>
+    {% if post.meetingid == page.title %}
+      {% if post.speakernotes == true %}
+        <p>
+        <h3>{{ post.author }}</h3>
+        {{ post.content | markdownify }}
+        <p>
+      {% endif %}
     {% endif %}
-   {% endif %}
   {% endif %}
 {% endfor %}
 
