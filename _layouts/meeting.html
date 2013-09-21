@@ -9,10 +9,10 @@ layout: default
 </div>
 
 <div class="post">
-<h2>Speakers</h2>
+<h2>Speaker Notes</h2>
 {% for post in site.posts %}
   {% if post.meetingid %}
-    {% if post.meetingid == page.title %}
+    {% if post.meetingid == page.meetingid %}
       {% if post.speakernotes == true %}
         <p>
         <h3>{{ post.author }}</h3>
