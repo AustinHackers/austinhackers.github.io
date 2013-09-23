@@ -38,7 +38,8 @@ git checkout -b 2013-09-26-mauvehead
 Either copy an existing speaker-notes file from another meeting or use
 the template found in templates/. If you choose to use the template,
 please remove the "Date:" line before your final commit. This line is
-only required to make jekyll run without errors.
+only required to make jekyll run without errors while testing locally
+with rake.
 
 Create/copy the speaker-notes markdown file, ensuring to put it in the
 proper meeting folder \_posts/YYYY-MM-DD/ that you spoke at.
