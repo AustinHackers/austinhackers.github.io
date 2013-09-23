@@ -26,4 +26,4 @@ websites for additional information.
 [CSHA]: http://csha.reversing.us/
 [NoVAH]: http://novahackers.blogspot.com/
 [PSSH]: http://groups.google.com/group/phxSSH?hl=en
-[SAHA]: http://sanantoniohackers.org/
+[SAHA]: http://satxhackers.org/
