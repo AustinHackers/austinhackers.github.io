@@ -57,6 +57,11 @@ ul.posts span {
   margin-left: 25px;
 }
 
+a:link { color: #a00; }
+a:visited { color: #a00; }
+a:hover { color: #000000; }
+a:active { color: #ffffff; }
+
 /*****************************************************************************/
 /*
 /* Site
