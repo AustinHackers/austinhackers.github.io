@@ -67,10 +67,16 @@ then more explanatory text if necessary, with lines no longer than 72
 characters.
 
 ### Create/submit pull-request on github.com
+From your github page, navigate to your forked copy of the AHA! Website
+repo. Find your new branch that you just created and pushed up to your
+origin in the previous step. Look in the top right corner of the box
+that shows your source code, is a link that says *Pull Request*. Click
+this and continue on.
+
 This will automatically reference upstream's master as the branch to
 land your pull request.
 
-Once you click Send Pull Request, you'll be on upstream's pull queue
+Once you click Send Pull Request, you'll be on upstream's pull queue.
 
 ### Wait for your pull-request to land
 Now you must wait to the pull-request to be reviewed and landed by
