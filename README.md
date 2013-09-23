@@ -24,6 +24,7 @@ The procedure outline is as follows:
 5. Push local branch to origin
 6. Create/submit pull request on github.com
 7. Clean up
+8. Resyncing from upstream
 
 ### Create new branch
 First, create a new branch from your master branch:
@@ -100,4 +101,40 @@ git push origin :2013-09-26-mauvehead
 
 Note that Git branches are cheap (nearly free, in terms of disk space),
 so this shouldn't happen too terribly often.
+
+### Resyncing from upstream
+The general idea here is to always use a new branch to create new
+content you want to submit to the main AHA repo, known as upstream. In
+doing so you'll never work directly from your *master* branch, you'll
+instead use new branches for each feature or speaker note.
+
+With this idea in mind, your *master* branch should always be an up to
+date version of the upstream AHA repo.
+
+The following will set this up:
+
+1. Add remote upstream (do only once)
+```
+git remote add upstream git@github.com:AustinHackers/austinhackers.github.io.git
+```
+
+2. Verify it was added (optional)
+```
+git remote -v
+```
+
+3. Grab all remote objects
+```
+git fetch --all
+```
+
+4. Sync your local master with the latest from upstream
+```
+git reset --hard upstream/master
+```
+
+5. Push your local master to YOUR origin/github profile (optional)
+```
+git push origin master
+```
 
