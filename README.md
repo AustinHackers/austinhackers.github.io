@@ -68,8 +68,7 @@ characters.
 
 ### Create/submit pull-request on github.com
 This will automatically reference upstream's master as the branch to
-land your pull request, and give you an opportunity to talk about how
-great your module is, what it does, how to test it, etc.
+land your pull request.
 
 Once you click Send Pull Request, you'll be on upstream's pull queue
 
