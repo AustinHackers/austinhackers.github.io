@@ -65,9 +65,9 @@ Here's some topics of previous discussions at AHA!:
 * Building your own stun glove
 * How to build your own AK47
 
-Lastly, many of the best AHA! presentations we're written one hour before
+Lastly, many of the best AHA! presentations were written one hour before
 the meeting, or onsite during other speakers. We don't need overly
-complicated powerpoint slides. In fact, some of the best talks we're
+complicated powerpoint slides. In fact, some of the best talks were
 simply screenshots and MS Paint with giant spray paint arrows. Make us laugh,
 we'll love you for ever!
 
