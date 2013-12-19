@@ -6,5 +6,5 @@ author: todb
 speakernotes: true
 ---
 
-[https://twitter.com/todb](@todb) talked about his 11 month experience with Western Governor's University,
+[@todb](https://twitter.com/todb) talked about his 11 month experience with Western Governor's University,
 and how he picked up a degree in that time. His slides are up [here](https://docs.google.com/presentation/d/1ASbAV2VR7QrzmqTUhGlc3eVLYPxXlEO2r4xKcgnaDv4/edit?usp=sharing).
