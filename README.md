@@ -5,8 +5,48 @@ This repo contains the new [website for the AHA
 group](http://takeonme.org). This is
 replacing the old (and nasty) website that was previously hosted at wikidot.
 
-How to submit your speaker materials 
+How to submit your speaker materials
 --
+*(the easy pointy-clicky way)*
+
+
+  * Fork https://github.com/AustinHackers/austinhackers.github.io . Now you're on your fork. Note, this step only happens once (keep your fork forever).
+  * Navigate to `templates/speaker_notes.md`, click edit. Or, just visit: https://github.com/todb/austinhackers.github.io/edit/master/templates/speaker_notes.md
+  * Copy that to your clipboard.
+  * Navigate to the correct meeting. Eg: https://github.com/todb/austinhackers.github.io/tree/master/_posts/2013-11-21-0x0056
+  * Create a new branch, named my-awesome-talk, by filling in the new name in the blue "Branches" box.
+  * Click on the blue `[+]` button to create a new file. Requires JS/Flash. No direct nav.
+  * Name your file YOURNAME.md. Note the directory name you're already in.
+  * Paste your copied template.
+  * Update your name and the meeting ID (the former you know, the latter you can learn by looking at the current directory name).
+  * Write your thrilling summary using GitHub-flavored markdown.
+  * Write a short commit summary (50 characters max please). This will not be shown on the website.
+  * Write more description if you like. Again, just for the upcoming pull request and commit histories.
+  * Hit the green Commit New File button.
+  * Hit the grey Pull Request button.
+  * Hit the "Click to create a pull request for this comparison" link if that looks good to you.
+  * Click the green Send pull request button.
+  * Annoy someone on #aha on Freenode to land it.
+
+Upsides to this method:
+
+  * All in-browser. No local clones required.
+  * Hella easy when you do it more than once.
+
+Downsides:
+
+  * You cannot GPG-sign your changes. Boo.
+  * You don't get the full set of git commands for branch and commit management. You won't miss them, though.
+  * If your commit message is malformed, you won't notice. You have to count characters with your eyeballs.
+
+----
+
+If you are more comfortable with the git command line interface, and want access to more complicated git functions not available via the GitHub UI, read on.
+
+How to submit your speaker materials
+--
+*(the hard way)*
+
 
 This is primarily taken from the [Metasploit
 Pull-Request](https://github.com/rapid7/metasploit-framework/wiki/Setting-Up-a-Metasploit-Development-Environment#wiki-pull) documentation
