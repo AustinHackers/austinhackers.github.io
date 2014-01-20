@@ -11,6 +11,7 @@ How to submit your speaker materials
 
 
   * Fork https://github.com/AustinHackers/austinhackers.github.io . Now you're on your fork. Note, this step only happens once (keep your fork forever).
+  * If you already have a fork, you first need to sync it to the AustinHackers master repo (see documentation below)
   * Navigate to `templates/speaker_notes.md`, click edit. Or, just visit: https://github.com/todb/austinhackers.github.io/edit/master/templates/speaker_notes.md
   * Copy that to your clipboard.
   * Navigate to the correct meeting. Eg: https://github.com/todb/austinhackers.github.io/tree/master/_posts/2013-11-21-0x0056
@@ -38,6 +39,15 @@ Downsides:
   * You cannot GPG-sign your changes. Boo.
   * You don't get the full set of git commands for branch and commit management. You won't miss them, though.
   * If your commit message is malformed, you won't notice. You have to count characters with your eyeballs.
+
+Syncing to Upstream (using the github.com website):
+  * From your forked repo in github.com, click the green button with the two white arrows that represents the compare & review function, right next to the drop down for your current branch
+  * If you are behind it should show something like, "There isn't anything to compare, try switching the base for your comparison". Click that link.
+  * You should now see all the changes in the upstream master that you must sync
+  * Hit the "Click to create a pull request for this comparison" link if that looks good to you.
+  * Towards the top of the page click the "Create pull request from these changes" link
+  * Fill out any commit information you want (this will be logged in YOUR forked repo)
+  * Click the green Send pull request button.
 
 ----
 
