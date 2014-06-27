@@ -1,7 +1,7 @@
 ---
-date: 2014-06-25 00:00:00
+date: 2014-06-26 00:00:00
 layout: post
-meetingid: "2014-06-25-0x005d"
+meetingid: "2014-06-26-0x005d"
 author: amatus
 speakernotes: true
 ---
