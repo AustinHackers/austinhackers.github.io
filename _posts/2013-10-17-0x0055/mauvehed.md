@@ -15,5 +15,5 @@ major revisions (which are welcomed!).
 If you have questions about the process please let me know:
 
 * [@mauvehed](https://twitter.com/mauvehed)
-* nate@FREENODE/irc
+* mauvehed@FREENODE/irc
 
