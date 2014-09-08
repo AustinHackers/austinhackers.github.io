@@ -86,6 +86,7 @@ a:active { color: #ffffff; }
 .site .header a {
   font-weight: bold;
   text-decoration: none;
+  border-bottom: 1px solid #eeeeee;
 }
 
 .site .header h1.title {
@@ -142,41 +143,16 @@ a:active { color: #ffffff; }
 }
 
 .wrapper-footer {
-  margin-top: 50px;
+  margin-top: 40px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: #eeeeee;
 }
 
-footer {
-  padding: 3px 0;
+/*footer {
+  padding: 50px 0;
   text-align: center;
-}
-
-.wrapper-masthead {
-  margin-bottom: 50px;
-}
-
-.masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid #eeeeee;
-}
-@media screen and (max-width: 640px) {
-  .masthead {
-    text-align: center;
-  }
-}
-
-.clearfix:before,
-.clearfix:after {
-  content: " ";
-  display: table;
-}
-
-.clearfix:after {
-  clear: both;
-}
-
+}*/
 
 /*****************************************************************************/
 /*
