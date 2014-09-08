@@ -20,7 +20,7 @@
 
         <div class="site">
           <div class="header">
-            <h1 class="title"><a href="/"><img src="images/AHA-logo-black.png"></a></h1>
+            <h1 class="title"><a href="/"><img src="{{ site.avatar }}"></a></h1>
             {% for post in site.html_pages %}
               {% if post.title %}
                 {% if post.showinnav == true %}
@@ -32,12 +32,16 @@
 
           {{ content }}
 
-          <div class="footer">
-            <div class="contact">
+<!--          <div class="footer">
+  <div class="contact">-->
+          <div class="wrapper-footer">
+            <div class="container">
+              <footer class="footer">
               <p>
                 © 2014 Austin Hackers of Academics &nbsp; • &nbsp;
 								Contacts: <a href="http://twitter.com/todb">@todb</a>, <a href="http://twitter.com/mauvehed">@mauvehed</a>, <a href="http://twitter.com/austinhackers">@AustinHackers</a> &nbsp;  • &nbsp; View and contribute to this site on <a href="https://github.com/AustinHackers/austinhackers.github.io">Github</a>
 							</p>
+              </div>
             </div>
           </div>
 					<a href="http://github.com/AustinHackers"><img style="position: absolute; top: 0; right: 0; border: 0;"

@@ -19,6 +19,13 @@ body {
   text-align: center;
 }
 
+.container {
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
+}
+
 /*h1, h2, h3, h4, h5, h6 {
   font-size: 200%; }*/
 
@@ -71,7 +78,7 @@ a:active { color: #ffffff; }
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 65em;
+  width: 55em;
   margin: 3em auto 2em;
   line-height: 1.5em;
 }
@@ -133,6 +140,43 @@ a:active { color: #ffffff; }
 .site .footer .rss img {
   border: 0;
 }
+
+.wrapper-footer {
+  margin-top: 50px;
+  border-top: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  background-color: #eeeeee;
+}
+
+footer {
+  padding: 3px 0;
+  text-align: center;
+}
+
+.wrapper-masthead {
+  margin-bottom: 50px;
+}
+
+.masthead {
+  padding: 20px 0;
+  border-bottom: 1px solid #eeeeee;
+}
+@media screen and (max-width: 640px) {
+  .masthead {
+    text-align: center;
+  }
+}
+
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
 
 /*****************************************************************************/
 /*
