@@ -1,4 +1,5 @@
 name: Austin Hackers Anonymous
+url: http://takeonme.org
 title: Austin Hackers Academy
 
 markdown: redcarpet
@@ -12,7 +13,7 @@ ircpage: irc.html
 redditpage: reddit.html
 ourspawnpage: ourspawn.html
 
-avatar: images/AHA-logo-black.png
+avatar: /images/AHA-logo-black.png
 
 footer-links:
   dribbble: 

@@ -83,10 +83,13 @@ a:active { color: #ffffff; }
   line-height: 1.5em;
 }
 
+.site .header-m {
+  border-bottom: 1px solid #eeeeee;
+  height: 120px;
+}
 .site .header a {
   font-weight: bold;
   text-decoration: none;
-  border-bottom: 1px solid #eeeeee;
 }
 
 .site .header h1.title {
@@ -148,6 +151,73 @@ a:active { color: #ffffff; }
   border-bottom: 1px solid #ddd;
   background-color: #eeeeee;
 }
+
+.site-avatar {
+ float: left;
+ width: 70px;
+ height: 70px;
+ margin-right: 15px;
+}
+@media screen and (max-width: 640px) {
+  .site-avatar {
+     float: none;
+     display: block;
+     margin: 0 auto;
+  }
+}
+.site-avatar img {
+  border-radius: 5px;
+}
+
+.site-info {
+  float: left;
+}
+@media screen and (max-width: 640px) {
+  .site-info {
+     float: none;
+     display: block;
+     margin: 0 auto;
+  }
+}
+
+.site-name {
+  margin: 0;
+  color: #a00;
+  cursor: pointer;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-weight: bold;
+  font-size: 28px;
+  letter-spacing: 1px;
+  margin-left: 65px;
+  padding: 20px;
+}
+
+.site-description {
+  margin: -5px 0 0 0;
+  color: #666666;
+  font-size: 16px;
+  margin-left: 70px;
+}
+@media screen and (max-width: 640px) {
+  .site-description {
+    margin: 3px 0;
+  }
+}
+
+.site-description a.extra {
+  color: #aaa;
+  margin-left: 1em;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.site-description a.extra:hover {
+  color: #000;
+  font-weight: bold;
+  text-decoration: none;
+}
+
 
 /*footer {
   padding: 50px 0;
