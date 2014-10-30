@@ -1,12 +1,10 @@
 ---
 layout: meeting
-meetingid:  "2014-12-18-0x0063"
-time:   "Dec 18th 2014"
-number: ninety-nineth
+meetingid:  "2014-11-18-0x0062"
+time:   "Nov 18th 2014"
+number: ninety-eighth
 categories: meetings
 ---
-
-**This meeting is a week early due to Christmas**
 
 Our {{ page.number }} technical meeting will be held {{ page.time }}, from
 7pm to 9pm, in a meeting room at Mister Tramps. See the [Mister Tramps][TrampsWeb] site for details on the venue. Here's a [map][TrampsMap] — the bistro is on the northbound side of 183-N, between Lamar and Burnet.
