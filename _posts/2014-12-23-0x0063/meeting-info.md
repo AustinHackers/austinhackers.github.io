@@ -9,7 +9,7 @@ categories: meetings
 **This meeting is early due to Christmas**
 
 Our {{ page.number }} technical meeting will be held {{ page.time }}, from
-7pm to 9pm, in a meeting room at Mister Tramps. See the [Mister Tramps][TrampsWeb] site for details on the venue. Here's a [map][TrampsMap] — the bistro is on the northbound side of 183-N, between Lamar and Burnet.
+7pm to 9pm, in a meeting room at Mister Tramps. See the [Mister Tramps][TrampsWeb] site for details on the venue -- please note that Mr. Tramps is now <strong>18+ only</strong> (sorry, kids!). Here's a [map][TrampsMap] — the bistro is on the northbound side of 183-N, between Lamar and Burnet.
 
 Food and drinks will still be permissible at the meeting, provided you
 purchase said food and drink from Mister Tramps.
