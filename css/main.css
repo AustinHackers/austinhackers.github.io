@@ -44,6 +44,11 @@ a:visited { color: #a0a; }
 blockquote {
   text-indent: 25px;
 }
+
+li {   
+  margin-left: 35px;
+}
+
 ul {
   margin-left: 50px;
 }
