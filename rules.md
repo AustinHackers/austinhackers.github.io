@@ -8,7 +8,6 @@ showinnav: true
 # {{ page.title }}
 
 ### Rules
-There are essentially three basic rules of AHA.
 
 * You must participate to remain a member.
 * There is no recording or filming allowed.
