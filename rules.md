@@ -12,7 +12,8 @@ There are essentially three basic rules of AHA.
 
 * You must participate to remain a member.
 * There is no recording or filming allowed.
-* Keep your talk under 10 mins.
+* What happens at AHA, stays at AHA.
+* Keep your talk under 10 mins*.
 
 Participation is defined in the [about us]({{ site.aboutus }}) section. It is required to remain an active
 member and attending meetings, remain on IRC, and the rest of our services.
@@ -22,9 +23,13 @@ and early demos of work that will be shown at larger conferences. Our presenters
 material with us in a safe manner that allows feedback and fostering of new ideas. You will be ejected from
 the meeting location if you violate this rule.
 
-We HATE long talks. The beauty of AHA is that if you don't like or don't know the content of a talk, wait 5-10
+Do not discuss presentations or conversations at AHA outside of the meeting, with a journalist, with your
+boss, or with a representative of a relevant vendor. Any confirms leaks will result in a lifetime ban from
+all future AHA meetings.
+
+* We HATE long talks. The beauty of AHA is that if you don't like or don't know the content of a talk, wait 5-10
 minutes for the next one. IF YOU PLAN TO SPEAK LONGER THAN 10 MINUTES you must notify the personal maintaining
-the list at the BEGINNING of the meeting. You will be requested to speak last. If you violate this you will
-piss us off and be denied speaking (which will violate rule #1) or sneered at very evily.
+the list at the BEGINNING of the meeting. You will be requested to speak last. If you go over, expect to be
+heckled and interrupted until you stop talking.
 
 If you must exceed 10 minutes, it better be damn worth it.
