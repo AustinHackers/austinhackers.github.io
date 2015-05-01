@@ -23,9 +23,9 @@ and early demos of work that will be shown at larger conferences. Our presenters
 material with us in a safe manner that allows feedback and fostering of new ideas. You will be ejected from
 the meeting location if you violate this rule.
 
-Do not discuss presentations or conversations at AHA outside of the meeting, with a journalist, with your
-boss, or with a representative of a relevant vendor. Any confirms leaks will result in a lifetime ban from
-all future AHA meetings.
+Do not discuss presentations or conversations at AHA outside of the meeting, with anyone. Examples would include
+discussing presentations with with a journalist, with your boss, or with a representative of a relevant vendor.
+Any confirmed leaks will result in a lifetime ban from all future AHA meetings.
 
 * We HATE long talks. The beauty of AHA is that if you don't like or don't know the content of a talk, wait 5-10
 minutes for the next one. IF YOU PLAN TO SPEAK LONGER THAN 10 MINUTES you must notify the personal maintaining
