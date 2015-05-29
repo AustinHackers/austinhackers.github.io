@@ -25,6 +25,14 @@ expect to talk last. As well, if you wish to give a talk about
 recruitment for your company, come prepared to buy drinks/alcohol for
 everyone in attendance.
 
+*The time-format for the meetings will now consist of 1 minute for setup,
+10 minutes of talking, and 5 minutes of QA. These times will be strictly
+enforced due to our growth and difficulties with people going over these limits.*
+
+*You must speak. If it is your first time come prepared to talk or you will be required
+to do so on your second visit. Failure to speak will result in being removed from the
+venue.*
+
 ### Participation
 Participation is mandatory for continued membership in the group. What
 this means, is that to retain a subscription to the mailing list, and
