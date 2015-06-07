@@ -15,7 +15,7 @@ There are five basic rules of AHA.
 4. What happens at AHA, stays at AHA.
 5. Keep your talk under 10 mins*.
 
-Participation is defined in the [about us]({{ site.aboutus }}) section. It is required to remain an active
+Participation is defined in the [about us]({{ site.aboutuspage }}) section. It is required to remain an active
 member and attending meetings, remain on IRC, and the rest of our services.
 
 We do not allow recording of audio, video or photography at our meetings. Much of our research is pre-con
