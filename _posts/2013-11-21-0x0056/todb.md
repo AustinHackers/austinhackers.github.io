@@ -1,5 +1,4 @@
 ---
-date: 1970-01-01 00:00:00
 layout: post
 meetingid: "2013-11-21-0x0056"
 author: todb

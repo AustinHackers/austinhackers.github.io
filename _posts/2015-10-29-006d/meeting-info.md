@@ -1,13 +1,13 @@
 ---
 layout: meeting
-meetingid:  "2014-05-29-0x0062"
-time:   "May 29th 2014"
-number: ninety-second
+meetingid:  "2015-10-29-0x006d"
+time:   "July 30th 2015"
+number: one-hundred-and-tenth
 categories: meetings
 ---
 
 Our {{ page.number }} technical meeting will be held {{ page.time }}, from
-7pm to 9pm, in a meeting room at Mister Tramps. See the [Mister Tramps][TrampsWeb] site for details on the venue. Here's a [map][TrampsMap] — the bistro is on the northbound side of 183-N, between Lamar and Burnet.
+7pm to 9pm, in a meeting room at Mister Tramps. See the [Mister Tramps][TrampsWeb] site for details on the venue -- please note that Mr. Tramps is now <strong>18+ only</strong> (sorry, kids!). Here's a [map][TrampsMap] — the bistro is on the northbound side of 183-N, between Lamar and Burnet.
 
 Food and drinks will still be permissible at the meeting, provided you
 purchase said food and drink from Mister Tramps.

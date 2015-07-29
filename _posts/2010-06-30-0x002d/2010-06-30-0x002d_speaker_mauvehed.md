@@ -1,7 +1,7 @@
 ---
 layout: meeting
 meetingid: "2010-06-30-0x002d"
-author: Nate
+author: mauvehed
 speakernotes: true
 ---
 

@@ -11,7 +11,7 @@ showinnav: true
 The Austin Hackers Association is a loose group of hackers and
 security professionals in the Austin, Texas area.
 
-We have monthly [meetings!]({{ site.meetingpage }}) We also occasionally eat sushi, BBQ, and drink beer together.
+We have monthly [meetings]({{ site.meetingpage }}) that do have [rules]({{ site.rules }}). We also occasionally eat sushi, BBQ, and drink beer together.
 
 ### Our Meetings
 Our meetings usually last anywhere from two to three hours, are in a
@@ -24,6 +24,14 @@ please notify someone on the mailing list or before the meeting and
 expect to talk last. As well, if you wish to give a talk about
 recruitment for your company, come prepared to buy drinks/alcohol for
 everyone in attendance.
+
+*The time-format for the meetings will now consist of 1 minute for setup,
+10 minutes of talking, and 5 minutes of QA. These times will be strictly
+enforced due to our growth and difficulties with people going over these limits.*
+
+*You must speak. If it is your first time come prepared to talk or you will be required
+to do so on your second visit. Failure to speak will result in being removed from the
+venue.*
 
 ### Participation
 Participation is mandatory for continued membership in the group. What

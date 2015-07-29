@@ -2,7 +2,7 @@
 layout: meeting
 meetingid:  "2013-06-27-0x0051"
 time:   "Jun 27th 2013"
-number: eighty-first
+number: eighty-second
 categories: meetings
 ---
 

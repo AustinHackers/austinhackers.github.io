@@ -1,8 +1,8 @@
 ---
 layout: meeting
-meetingid:  "2014-03-27-0x0060"
-time:   "Mar 27th 2014"
-number: ninetieth
+meetingid:  "2014-08-28-0x005f"
+time:   "Aug 28th 2014"
+number: ninety-sixth
 categories: meetings
 ---
 
