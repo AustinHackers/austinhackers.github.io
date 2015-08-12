@@ -18,6 +18,7 @@ to conform to an exclamation acronym of some form:
 * [PSSH!][PSSH] - Phoenix Secret Society of Hackers
 * [SAHA!][SAHA] - San Antonio Hackers Association
 * [TWH][TWH] - The Woodlands Hacker Association
+* [CHA-HA][CHA-HA] - Charlotte Hackers Anonymous
 
 Please note that we do not have direct affiliation to these groups and
 they may operate under their own rules and policies. Please review their
@@ -30,3 +31,4 @@ websites for additional information.
 [PSSH]: http://groups.google.com/group/phxSSH?hl=en
 [SAHA]: http://satxhackers.org/
 [TWH]: http://www.thewoodlandshackers.com/
+[CHA-HA]: http://cha-ha.com/
