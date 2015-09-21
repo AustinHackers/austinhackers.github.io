@@ -39,7 +39,6 @@ to not get heckled at the meetings, you must contribute to the group
 in some form. Potential ways to contribute currently include:
 
 * Attending the meetings and **speaking** about what you're working on, what you're up to, etc.
-* Participation in discussions on the mailing list or IRC.
 
 > **Note**, *it is up to The Mob. to decide whether or not you are
 participating enough, and if it seems that you aren't the heavy-hand of
@@ -70,7 +69,6 @@ Here's some topics of previous discussions at AHA!:
 * Breaking down A/V detection one fingerprint at a time
 * Reverse Engineering Blackhole Malware
 * Building your own stun glove
-* How to build your own AK47
 
 Lastly, many of the best AHA! presentations were written one hour before
 the meeting, or onsite during other speakers. We don't need overly
