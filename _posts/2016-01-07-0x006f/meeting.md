@@ -6,7 +6,7 @@ number: one-hundred-and-twelfth
 categories: meetings
 ---
 
-**THIS IS THE DECEMBER MEETING -- IT IS A WEEK LATE BECAUSE OF CHRISTMAS**
+**THIS IS THE DECEMBER MEETING -- IT IS A WEEK LATE BECAUSE OF NEW YEARS EVE**
 
 Our {{ page.number }} technical meeting will be held {{ page.time }}, from
 7pm to 9pm, in a meeting room at Mister Tramps. See the [Mister Tramps][TrampsWeb] site for details on the venue. Here's a [map][TrampsMap] — the bistro is on the northbound side of 183-N, between Lamar and Burnet.
