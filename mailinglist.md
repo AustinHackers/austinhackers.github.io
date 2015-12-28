@@ -7,12 +7,4 @@ showinnav: true
 
 # {{ page.title }}
 
-There is currently only one AHA! e-mail list, called "aha", which is
-used for general discussion. The mailing list is open to anyone who
-lives in Austin, Texas or is willing to travel to Austin to attend the
-[meetings]({{ site.meetingpage }}) and follow our [rules]({{ site.aboutuspage }}). **Subscription requests are moderated** and subject to a screening process — if we don't know who you
-are, you will be asked to give a quick introduction and verify that you
-plan on attending the meetings.
-
-To subscribe or unsubscribe, visit the [mailman interface](http://mail.metasploit.com/mailman/listinfo/aha)
-
+ The AHA Mailing List is no more. It's usage was very minimal and our hosting needed to move, so rather than rehost at a new location we decided to close it down. You are better off using [IRC]({{site.ircpage}}) for real-time chat, or our [reddit]({{site.redditpage}}) for anything persistent. Note that reddit is moderated like the Mailing List was.
