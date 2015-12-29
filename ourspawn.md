@@ -13,7 +13,7 @@ to conform to an exclamation acronym of some form:
 * [BAHA!][BAHA] Bay Area Hackers Association
 * [CSHA][CSHA] - Colorado Springs Hackers Anonymous
 * [DHA][DHA] - Dallas Hackers Association
-* HAHA! - Houston Area Hackers Anonymous
+* [HAHA!][HAHA] - Houston Area Hackers Anonymous
 * [NoVAH!][NoVAH] - Northern Virginia Hackers
 * [PSSH!][PSSH] - Phoenix Secret Society of Hackers
 * [SAHA!][SAHA] - San Antonio Hackers Association
@@ -32,3 +32,4 @@ websites for additional information.
 [SAHA]: http://satxhackers.org/
 [TWH]: http://www.thewoodlandshackers.com/
 [CHA-HA]: http://cha-ha.com/
+[HAHA]: http://www.meetup.com/Houston-Area-Hackers-Association/
