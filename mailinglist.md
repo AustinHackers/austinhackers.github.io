@@ -7,4 +7,12 @@ showinnav: true
 
 # {{ page.title }}
 
- The AHA Mailing List is no more. It's usage was very minimal and our hosting needed to move, so rather than rehost at a new location we decided to close it down. You are better off using [IRC]({{site.ircpage}}) for real-time chat, or our [reddit]({{site.redditpage}}) for anything persistent. Note that reddit is moderated like the Mailing List was.
+The mailing list is open to anyone who lives in Austin, Texas and has spoken at one of our [meetings]({{ site.meetingpage }}) and follow our [rules]({{ site.aboutuspage }}). **Subscription requests are moderated** and subject to a screening process — if we don't know who you are, you will be asked to give a quick introduction and verify that you have spoken at a meeting.
+
+To subscribe, visit the [Google Group page](https://groups.google.com/forum/#!forum/austinhackers) and click Apply. Note that your request **MUST** include the following information:
+
+* Are you local to Austin? 
+* Where did you hear about us?
+* Have you been to a meeting yet?
+* Have you introduced yourself to us in person yet?
+* Have you spoken at a meeting yet?

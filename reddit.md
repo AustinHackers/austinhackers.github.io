@@ -20,5 +20,5 @@ It is strongly encouraged to identify yourself in this message if your username 
 name or handle you use at AHA!
 
 Keep in mind that we still may not grant you access until you've identified yourself in
-person at a meeting. We don't know everyone.
+person at a meeting. Like the mailing list, reddit access requires having previously spoken at a meeting.
 

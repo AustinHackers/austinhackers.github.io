@@ -20,7 +20,7 @@ There is no formal membership for AHA! There are however a couple ways you can g
 * Read the [About AHA!]({{ site.aboutuspage }}) page, where you can learn all about Austin Hackers Anonymous!
 * Follow the [Rules]({{ site.rules }})
 * Come to the [meetings]({{ site.meetingpage }})
-* Get on one of the AHA! [mailing lists]({{ site.mailinglistpage }})
+* Get on the AHA! [mailing list]({{ site.mailinglistpage }})
 * Join us on [IRC]({{ site.ircpage }})
 
 *NOTE: By "Academy" we mean we don't actually teach you anything. We are
