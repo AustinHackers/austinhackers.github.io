@@ -3,7 +3,7 @@ url: http://takeonme.org
 title: Austin Hackers Academy
 
 markdown: kramdown
-pygments: true
+highlighter: rouge
 timezone: America/Chicago
 homepage: index.html
 meetingpage: meetings.html
