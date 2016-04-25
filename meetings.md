@@ -1,6 +1,6 @@
 ---
-layout: meetinglist
-title: Meeting Calendar
+layout: meetings
+title: Meetings
 categories: nav
 showinnav: true
 ---
