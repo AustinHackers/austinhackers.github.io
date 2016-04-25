@@ -2,7 +2,7 @@ name: Austin Hackers Anonymous
 url: http://takeonme.org
 title: Austin Hackers Academy
 
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 timezone: America/Chicago
 homepage: index.html
