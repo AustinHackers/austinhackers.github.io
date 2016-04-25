@@ -11,7 +11,8 @@ showinnav: true
 The Austin Hackers Association is a loose group of hackers and
 security professionals in the Austin, Texas area.
 
-We have monthly [meetings]({{ site.meetingpage }}) that do have [rules]({{ site.rules }}). We also occasionally eat sushi, BBQ, and drink beer together.
+We have monthly [meetings]({{ site.meetingpage }}) that do have [rules]({{ site.rules }}).
+We also occasionally eat sushi, BBQ, and drink beer together.
 
 ### Our Meetings
 Our meetings usually last anywhere from two to three hours, are in a
@@ -25,20 +26,19 @@ expect to talk last. As well, if you wish to give a talk about
 recruitment for your company, come prepared to buy drinks/alcohol for
 everyone in attendance.
 
-*The time-format for the meetings will now consist of 1 minute for setup,
+> *The time-format for the meetings will now consist of 1 minute for setup,
 10 minutes of talking, and 5 minutes of QA. These times will be strictly
 enforced due to our growth and difficulties with people going over these limits.*
 
-*If this is your first time, come prepared to speak. Continued failure to present
-will result in being removed from the venue.
+> *If this is your first time, come prepared to speak. Continued failure to present
+will result in being removed from the venue.*
 
 ### Participation
 Participation is mandatory for continued membership in the group. What
 this means, is that to retain a subscription to the mailing list, and
 to not get heckled at the meetings, you must contribute to the group
-in some form. Potential ways to contribute currently include:
-
-* Attending the meetings and **speaking** about what you're working on, what you're up to, etc.
+in some form. The best way to do this is to attend the meetings and **speak**
+about what you're working on, what you're up to, etc.
 
 > **Note**, *it is up to The Mob. to decide whether or not you are
 participating enough, and if it seems that you aren't the heavy-hand of
@@ -62,19 +62,9 @@ ourselves or read an already written how-to on.
  * Don't tell us all about someone elses research that you read and now
    are regurgitating to us. Expand on it! Add to it!
 
-Here's some topics of previous discussions at AHA!:
-
-* Horror stories from Pentesting
-* How to bypass physical security with a pop can
-* Breaking down A/V detection one fingerprint at a time
-* Reverse Engineering Blackhole Malware
-* Building your own stun glove
-
 Lastly, many of the best AHA! presentations were written one hour before
-the meeting, or onsite during other speakers. We don't need overly
-complicated powerpoint slides. In fact, some of the best talks were
-simply screenshots and MS Paint with giant spray paint arrows. Make us laugh,
-we'll love you for ever!
+the meeting, or onsite during other speakers. We don't need or want overly
+complicated powerpoint slides. 
 
 ### Out of Town
 If you are from out of town, showing up to a meeting when you happen
@@ -85,6 +75,5 @@ expected to speak at the meetings at least every other meeting that you attend
 or so.
 
 Simply showing up to the meetings and hiding in the shadows or lurking
-on the email list is definitely **NOT** a sufficient level of
-participation.
+on IRC is definitely **NOT** a sufficient level of participation.
 
