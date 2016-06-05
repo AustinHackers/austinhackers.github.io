@@ -30,8 +30,8 @@ everyone in attendance.
 10 minutes of talking, and 5 minutes of QA. These times will be strictly
 enforced due to our growth and difficulties with people going over these limits.*
 
-> *If this is your first time, come prepared to speak. Continued failure to present
-will result in being removed from the venue.*
+> **If this is your first time, come prepared to speak. Continued failure to present
+will result in being removed from the venue.**
 
 ### Participation
 Participation is mandatory for continued membership in the group. What
