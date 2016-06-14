@@ -15,7 +15,7 @@ Please see the [About Us]({{ site.aboutuspage }}) page for more information on o
 
 ## How to Join Austin Hackers Academy
 
-There is no formal membership for AHA! There are however participation is mandatory:
+There is no formal membership for AHA! However, participation is mandatory:
 
 * Read the [About AHA!]({{ site.aboutuspage }}) page, where you can learn all about Austin Hackers Anonymous!
 * Follow the [Rules]({{ site.rules }})
