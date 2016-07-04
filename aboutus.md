@@ -7,11 +7,11 @@ showinnav: true
 
 # {{ page.title }}
 
-### Who we are
+## Who we are
 The Austin Hackers Association is a loose group of hackers and
 security professionals in the Austin, Texas area. We have monthly [meetings]({{ site.meetingpage }}) that do have [rules]({{ site.rules }}). We also occasionally eat sushi, BBQ, and drink beer together.
 
-### Our Meetings
+## Our Meetings
 The meetings consist of short "turbo-talks" from anyone that would like
 to speak on a topic for anywhere from 5 to 10 minutes. There is a projector
 and screen (HDMI only) if you wish to use a slide deck or perform demos. 
@@ -23,7 +23,7 @@ page.
 > **If this is your first time, come prepared to speak. Continued failure to present
 will result in being removed from the venue.**
 
-### Participation
+## Participation
 Participation is mandatory for continued membership in the group. What
 this means is that to retain a subscription to the mailing list and
 to be allowed entrance to the meetings, you must contribute to the group
@@ -56,7 +56,7 @@ Lastly, many of the best AHA! presentations were written one hour before
 the meeting, or onsite during other speakers. We don't need or want overly
 complicated powerpoint slides. 
 
-### Out of Town
+## Out of Town
 If you are from out of town, showing up to a meeting when you happen
 to be in town and then continuing to participate in discussions on the
 email list/IRC *may* (but not always) be considered sufficient. If you are
