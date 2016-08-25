@@ -66,5 +66,3 @@ or so.
 
 Simply showing up to the meetings and hiding in the shadows or lurking
 on IRC is definitely **NOT** a sufficient level of participation.
-
-HeadlessZeke was here temporarily. Don't mind me.
