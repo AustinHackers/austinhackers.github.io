@@ -15,6 +15,6 @@ To subscribe, visit the [Google Group page](https://groups.google.com/forum/#!fo
 * Where did you hear about us?
 * Have you been to a meeting yet?
 * Have you introduced yourself to us in person yet?
-* Have you spoken at a meeting yet?
+* Have you spoken at a meeting yet? **<--REQUIRED, intro talks don't count**
 
 **DO NOT APPLY TO THE LIST IF YOU HAVE NOT YET SPOKEN AT OUR MEETINGS. YOU WILL BE REJECTED**
