@@ -14,6 +14,7 @@ Network in the channel #AHA.
 
 * Server: chat.freenode.net
 * Channel: #AHA
+* There is now a key needed to access the channel. Please show up to a meeting to get it.
 
 There are no specific channel rules, but please do not ask stupid
 questions like, "How do I hack X" or showing up to simply cause drama.
