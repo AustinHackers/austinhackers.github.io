@@ -19,7 +19,7 @@ to conform to an exclamation acronym of some form:
 * [SAHA!][SAHA] - San Antonio Hackers Association
 * [TWH][TWH] - The Woodlands Hacker Association
 * [CHA-HA][CHA-HA] - Charlotte Hackers Anonymous
-* [SHA0][SHA0] - Seattle Hackers Anonymous
+* SHA0 - Seattle Hackers Anonymous
 
 Please note that we do not have direct affiliation to these groups and
 they may operate under their own rules and policies. Please review their
