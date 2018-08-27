@@ -13,7 +13,7 @@ There are five basic rules of AHA.
 1. You must participate to remain a member.
 2. There is no recording or filming allowed.
 3. What happens at AHA, stays at AHA.
-4. Keep your talk under 10 mins*.
+4. Keep your talk under 10 mins.
 5. Pitching product/company or recruiting for headcount? YOU MUST BUY BOOZE
 
 1) Participation is defined in the [about us]({{ site.aboutuspage }}) section. It is required to remain an active
@@ -29,7 +29,7 @@ discussing presentations with a journalist, with your boss, or with a representa
 Any confirmed leaks will result in a lifetime ban from all future AHA meetings.
 
 4) We HATE long talks. The beauty of AHA is that if you don't like or don't know the content of a talk, wait 5-10
-minutes for the next one. IF YOU PLAN TO SPEAK LONGER THAN 10 MINUTES you must notify the personal maintaining
+minutes for the next one. IF YOU PLAN TO SPEAK LONGER THAN 10 MINUTES you must notify the person maintaining
 the list at the BEGINNING of the meeting. You will be requested to speak last. If you go over, expect to be
 heckled and interrupted until you stop talking. If you must exceed 10 minutes, it better be damn worth it.
 
