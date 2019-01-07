@@ -43,13 +43,13 @@ easy. We have some basic suggestions that may help you:
 
 * Present your own material/work
 * We love code, demo's and live examples of work. But make it your own.
-   Don't give us a 101 on a topic that any of us could just lookup
+   Don't give us a 101 on a topic that any of us could just lookup.
 ourselves or read an already written how-to on.
-* It doesn't have to be finished worked
+* It doesn't have to be finished work.
 * If you've shown you're doing your own research but are stuck, come
    talk to us and we'll likely be able to help!
-* No book reports
-* Don't tell us all about someone elses research that you read and now
+* No book reports.
+* Don't tell us all about someone else's research that you read and now
    are regurgitating to us. Expand on it! Add to it!
 
 Lastly, many of the best AHA! presentations were written one hour before
