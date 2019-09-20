@@ -14,11 +14,25 @@ Network in the channel #AHA.
 
 * Server: chat.freenode.net
 * Channel: #AHA
+* There is now a key needed to access the channel. Please show up to a meeting to get it.
 
 There are no specific channel rules, but please do not ask stupid
 questions like, "How do I hack X" or showing up to simply cause drama.
 This is a good place to talk to speakers from past meetings about their
 projects, or to look for feedback on your own talk.
+
+## FAQ
+**How do I get Ops?**
+
+You don't.
+
+**How do I get Voice?**
+
+You don't.
+
+**How do I get a hostcloak?**
+
+You don't.
 
 Anything that deserves a longer conversation, planning, or feedback from
 more members, should probably be taken to the [mailing list]({{ site.mailinglistpage }}).

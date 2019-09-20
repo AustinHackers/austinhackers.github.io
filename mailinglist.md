@@ -7,12 +7,15 @@ showinnav: true
 
 # {{ page.title }}
 
-There is currently only one AHA! e-mail list, called "aha", which is
-used for general discussion. The mailing list is open to anyone who
-lives in Austin, Texas or is willing to travel to Austin to attend the
-[meetings]({{ site.meetingpage }}) and follow our [rules]({{ site.aboutuspage }}). **Subscription requests are moderated** and subject to a screening process — if we don't know who you
-are, you will be asked to give a quick introduction and verify that you
-plan on attending the meetings.
+The mailing list is open to anyone who lives in Austin, Texas and has spoken at one of our [meetings]({{ site.meetingpage }}) and follow our [rules]({{ site.aboutuspage }}). **Subscription requests are moderated** and subject to a screening process — if we don't know who you are, you will be asked to give a quick introduction and verify that you have spoken at a meeting.
 
-To subscribe or unsubscribe, visit the [mailman interface](http://mail.metasploit.com/mailman/listinfo/aha)
+<B><FONT COLOR="red">DO NOT APPLY TO THE LIST IF YOU HAVE NOT YET SPOKEN AT OUR MEETINGS. YOU WILL BE REJECTED</FONT></B>
+
+To subscribe, visit the [Google Group page](https://groups.google.com/forum/#!forum/austinhackers) and click Apply. Note that your request **MUST** include the following information:
+
+* Are you local to Austin? 
+* Where did you hear about us?
+* Have you been to a meeting yet?
+* Have you introduced yourself to us in person yet?
+* Have you spoken at a meeting yet? **<--REQUIRED, intro talks don't count**
 
