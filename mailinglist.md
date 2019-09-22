@@ -11,11 +11,11 @@ The mailing list is open to anyone who lives in Austin, Texas and has spoken at 
 
 <B><FONT COLOR="red">DO NOT APPLY TO THE LIST IF YOU HAVE NOT YET SPOKEN AT OUR MEETINGS. YOU WILL BE REJECTED</FONT></B>
 
-To subscribe, visit the [Google Group page](https://groups.google.com/forum/#!forum/austinhackers) and click Apply. Note that your request **MUST** include the following information:
+To subscribe, join our [IRC]({{ site.ircpage }}) channel and ask for an invite. You will need to provide your email address to do so. You can either leave it in the channel or ask for someone who can add you and wait to give it to them.
+
+Note that you should not consider applying to the list without answering yes to the following:
 
 * Are you local to Austin? 
-* Where did you hear about us?
 * Have you been to a meeting yet?
 * Have you introduced yourself to us in person yet?
 * Have you spoken at a meeting yet? **<--REQUIRED, intro talks don't count**
-
