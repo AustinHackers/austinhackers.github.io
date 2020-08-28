@@ -28,7 +28,7 @@ websites for additional information.
 [BAHA]: http://baha.bitrot.info/
 [CSHA]: http://csha.reversing.us/
 [DHA]: http://www.meetup.com/Dallas-Hackers-Association/
-[NoVAH]: http://novahackers.blogspot.com/
+[NoVAH]: https://novahackers.com/
 [PSSH]: http://groups.google.com/group/phxSSH?hl=en
 [SAHA]: http://satxhackers.org/
 [TWH]: http://www.thewoodlandshackers.com/
