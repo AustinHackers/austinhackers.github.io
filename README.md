@@ -1,11 +1,11 @@
-AHA! Website
+AHA! Website.
 ==
 
 This repo contains the new [website for the AHA
 group](http://takeonme.org). This is
 replacing the old (and nasty) website that was previously hosted at wikidot.
 
-How to submit your speaker materials
+How to submit your speaker materials.
 --
 *(the easy pointy-clicky way)*
 
