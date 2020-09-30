@@ -1,4 +1,4 @@
-AHA! Website
+AHA! An Amazing Website
 ==
 
 This repo contains the new [website for the AHA
