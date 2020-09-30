@@ -1,4 +1,4 @@
-AHA! Website
+Whoo! Website
 ==
 
 This repo contains the new [website for the AHA
