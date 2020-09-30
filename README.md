@@ -80,7 +80,7 @@ The procedure outline is as follows:
 First, create a new branch from your master branch:
 
 ```
-Please use the format YYYY-MM-DD-yourhandle
+Please use the format DD-MM-YYYY-yourhandle
 git checkout master
 git checkout -b 2013-09-26-mauvehead
 ```
