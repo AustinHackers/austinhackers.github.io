@@ -20,7 +20,7 @@ to conform to an exclamation acronym of some form:
 * [TWH][TWH] - The Woodlands Hacker Association
 * [CHA-HA][CHA-HA] - Charlotte Hackers Anonymous
 * SHA0 - Seattle Hackers Anonymous
-
+*ugnazi-joshthegod hackers
 Please note that we do not have direct affiliation to these groups and
 they may operate under their own rules and policies. Please review their
 websites for additional information.
