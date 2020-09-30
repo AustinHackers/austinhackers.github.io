@@ -70,7 +70,7 @@ The procedure outline is as follows:
 3. Test changes locally with
 	 [rake](https://github.com/AustinHackers/austinhackers.github.io/blob/master/Rakefile) (requires
 	 [jekyll](http://jekyllrb.com/) and components be installed).
-4. Commit changes to local repo
+4. Commit changes to local repository.
 5. Push local branch to origin
 6. Create/submit pull request on github.com
 7. Clean up
@@ -102,7 +102,7 @@ With jekyll installed locally (follow quick-start-instructions from
 navigate to [localhost:4000](http://localhost:4000) to view your changes.
 
 ### Commit changes, push branch to origin
-Once it's all done and tested, add the changes to your repo and push
+Once it's all done and tested, add the changes to your repository and push
 the branch up to origin:
 
 ```
