@@ -1,17 +1,17 @@
 AHA! Website
 ==
 
-This repo contains the new [website for the AHA
+This repository contains the new [website for the AHA
 group](http://takeonme.org). This is
-replacing the old (and nasty) website that was previously hosted at wikidot.
+replacing the old (and nasty) website that was previously hosted at Wikidot.
 
 How to submit your speaker materials
 --
 *(the easy pointy-clicky way)*
 
 
-  * Fork https://github.com/AustinHackers/austinhackers.github.io . Now you're on your fork. Note, this step only happens once (keep your fork forever).
-  * If you already have a fork, you first need to sync it to the AustinHackers master repo (see documentation below)
+  * Fork https://github.com/AustinHackers/austinhackers.github.io. Now you're on your fork. Note, this step only happens once (keep your fork forever).
+  * If you already have a fork, you first need to sync it to the AustinHackers master repo (see the documentation below)
   * Navigate to `templates/speaker_notes.md`, click edit. Or, just visit: https://github.com/todb/austinhackers.github.io/edit/master/templates/speaker_notes.md
   * Copy that to your clipboard.
   * Navigate to the correct meeting. Eg: https://github.com/todb/austinhackers.github.io/tree/master/_posts/2013-11-21-0x0056
@@ -41,17 +41,17 @@ Downsides:
   * If your commit message is malformed, you won't notice. You have to count characters with your eyeballs.
 
 Syncing to Upstream (using the github.com website):
-  * From your forked repo in github.com, click the green button with the two white arrows that represents the compare & review function, right next to the drop down for your current branch
+  * From your forked repo in github.com, click the green button with the two white arrows that represent the compare & review function, right next to the drop-down for your current branch
   * If you are behind it should show something like, "There isn't anything to compare, try switching the base for your comparison". Click that link.
   * You should now see all the changes in the upstream master that you must sync
   * Hit the "Click to create a pull request for this comparison" link if that looks good to you.
-  * Towards the top of the page click the "Create pull request from these changes" link
+  * Towards the top of the page click the "Create a pull request from these changes" link
   * Fill out any commit information you want (this will be logged in YOUR forked repo)
   * Click the green Send pull request button.
 
 ----
 
-If you are more comfortable with the git command line interface, and want access to more complicated git functions not available via the GitHub UI, read on.
+If you are more comfortable with the git command-line interface and want access to more complicated git functions not available via the GitHub UI, read on.
 
 How to submit your speaker materials
 --
@@ -70,45 +70,45 @@ The procedure outline is as follows:
 3. Test changes locally with
 	 [rake](https://github.com/AustinHackers/austinhackers.github.io/blob/master/Rakefile) (requires
 	 [jekyll](http://jekyllrb.com/) and components be installed).
-4. Commit changes to local repo
-5. Push local branch to origin
+4. Commit changes to a local repo
+5. Push the local branch to origin
 6. Create/submit pull request on github.com
 7. Clean up
 8. Resyncing from upstream
 
-### Create new branch
+### Create a new branch
 First, create a new branch from your master branch:
 
 ```
-Please use the format YYYY-MM-DD-yourhandle
+Please use the format YYYY-MM-DD-your handle
 git checkout master
-git checkout -b 2013-09-26-mauvehead
+git checkout -b 2013-09-26-mauve head
 ```
 
 ### Create/copy new speaker-notes markdown file
 Either copy an existing speaker-notes file from another meeting or use
 the template found in templates/. If you choose to use the template,
 please remove the "Date:" line before your final commit. This line is
-only required to make jekyll run without errors while testing locally
-with rake.
+only required to make Jekyll run without errors while testing locally
+with a rake.
 
 Create/copy the speaker-notes markdown file, ensuring to put it in the
 proper meeting folder \_posts/YYYY-MM-DD/ that you spoke at.
 
-### Test changes with rake
-With jekyll installed locally (follow quick-start-instructions from
+### Test changes with a rake
+With Jekyll installed locally (follow quick-start-instructions from
 [jekyll](jekyllrb.com) website), from the main root of the repo, run
-*rake* to start jekyll and watch the output of the server. Now you can
+*rake* to start Jekyll and watch the output of the server. Now you can
 navigate to [localhost:4000](http://localhost:4000) to view your changes.
 
-### Commit changes, push branch to origin
+### Commit changes, push the branch to origin
 Once it's all done and tested, add the changes to your repo and push
 the branch up to origin:
 
 ```
 git add <path to new speaker-notes>
-git commit -m "added speaker-notes for mauvehead at meeting 2013-09-26"
-git push origin 2013-09-26-mauvehead
+git commit -m "added speaker-notes for the mauve head at meeting 2013-09-26"
+git push origin 2013-09-26-mauve head
 ```
 
 Please make sure your commit messages conform to [this guide]
@@ -118,8 +118,8 @@ then more explanatory text if necessary, with lines no longer than 72
 characters.
 
 ### Create/submit pull-request on github.com
-From your github page, navigate to your forked copy of the AHA! Website
-repo. Find your new branch that you just created and pushed up to your
+From your GitHub page, navigate to your forked copy of the AHA! Website
+repo. Find the new branch that you just created and pushed up to your
 origin in the previous step. Look in the top right corner of the box
 that shows your source code, is a link that says *Pull Request*. Click
 this and continue on.
@@ -130,11 +130,11 @@ land your pull request.
 Once you click Send Pull Request, you'll be on upstream's pull queue.
 
 ### Wait for your pull-request to land
-Now you must wait to the pull-request to be reviewed and landed by
+Now you must wait for the pull-request to be reviewed and landed by
 someone with commit access. Your pull-request will be reviewed to verify
 it matches requirements and compatibility.
 
-This process has no real time line and could take days or longer. If
+This process has no real timeline and could take days or longer. If
 there is no movement on the pull-request ticket, you can always poke us
 on IRC, or buy is booze.
 
@@ -145,8 +145,8 @@ branch after rebasing.
 You can clean out your development branches with the following:
 
 ```
-git branch -D 2013-09-26-mauvehead
-git push origin :2013-09-26-mauvehead
+git branch -D 2013-09-26-mauve head
+git push origin:2013-09-26-mauve head
 ```
 
 Note that Git branches are cheap (nearly free, in terms of disk space),
@@ -183,7 +183,7 @@ git fetch --all
 git reset --hard upstream/master
 ```
 
-5. Push your local master to YOUR origin/github profile (optional)
+5. Push your local master to YOUR origin/Github profile (optional)
 ```
 git push origin master
 ```
