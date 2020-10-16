@@ -4,7 +4,7 @@ AHA! Website
 This repo contains the new [website for the AHA
 group](http://takeonme.org). This is
 replacing the old (and nasty) website that was previously hosted at wikidot.
-It is a good project for begginners do download and fulfill your dreams.
+
 
 How to submit your speaker materials
 --
