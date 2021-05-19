@@ -9,10 +9,10 @@ showinnav: true
 
 While traditionally the best way to communicate in AHA was the [mailing
 list]({{ site.mailinglistpage }}), now the most common place to find us
-is on IRC. We can be found on the [Freenode](http://freenode.net/) IRC
+is on IRC and discord. We can be found on the [Libera](http://libera.chat/) IRC
 Network in the channel #AHA.
 
-* Server: chat.freenode.net
+* Server: irc.libera.chat
 * Channel: #AHA
 * There is now a key needed to access the channel. Please show up to a meeting to get it.
 
@@ -33,6 +33,10 @@ You don't.
 **How do I get a hostcloak?**
 
 You don't.
+
+**How do I get on discord?**
+
+Show up to a meeting and see if we let you in.
 
 Anything that deserves a longer conversation, planning, or feedback from
 more members, should probably be taken to the [mailing list]({{ site.mailinglistpage }}).
