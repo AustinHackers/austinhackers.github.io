@@ -11,7 +11,7 @@ How to submit your speaker materials
 
 
   * Fork https://github.com/AustinHackers/austinhackers.github.io . Now you're on your fork. Note, this step only happens once (keep your fork forever).
-  * If you already have a fork, you first need to sync it to the AustinHackers master repo (see documentation below)
+  * If you already have a fork, you first need to sync it to the AustinHackers upstream repo (see documentation below)
   * Navigate to `templates/speaker_notes.md`, click edit. Or, just visit: https://github.com/todb/austinhackers.github.io/edit/master/templates/speaker_notes.md
   * Copy that to your clipboard.
   * Navigate to the correct meeting. Eg: https://github.com/todb/austinhackers.github.io/tree/master/_posts/2013-11-21-0x0056
@@ -43,7 +43,7 @@ Downsides:
 Syncing to Upstream (using the github.com website):
   * From your forked repo in github.com, click the green button with the two white arrows that represents the compare & review function, right next to the drop down for your current branch
   * If you are behind it should show something like, "There isn't anything to compare, try switching the base for your comparison". Click that link.
-  * You should now see all the changes in the upstream master that you must sync
+  * You should now see all the changes in the upstream  repository that you must sync
   * Hit the "Click to create a pull request for this comparison" link if that looks good to you.
   * Towards the top of the page click the "Create pull request from these changes" link
   * Fill out any commit information you want (this will be logged in YOUR forked repo)
@@ -68,7 +68,7 @@ The procedure outline is as follows:
 1. Create new branch
 2. Create/copy new speaker-notes markdown file
 3. Test changes locally with
-	 [rake](https://github.com/AustinHackers/austinhackers.github.io/blob/master/Rakefile) (requires
+	 [rake](https://github.com/AustinHackers/austinhackers.github.io/blob/main/Rakefile) (requires
 	 [jekyll](http://jekyllrb.com/) and components be installed).
 4. Commit changes to local repo
 5. Push local branch to origin
@@ -77,12 +77,12 @@ The procedure outline is as follows:
 8. Resyncing from upstream
 
 ### Create new branch
-First, create a new branch from your master branch:
+First, create a new branch from your main branch:
 
 ```
 Please use the format YYYY-MM-DD-yourhandle
-git checkout master
-git checkout -b 2013-09-26-mauvehead
+git checkout main 
+git checkout -b 2013-09-26-mauvehed
 ```
 
 ### Create/copy new speaker-notes markdown file
@@ -124,7 +124,7 @@ origin in the previous step. Look in the top right corner of the box
 that shows your source code, is a link that says *Pull Request*. Click
 this and continue on.
 
-This will automatically reference upstream's master as the branch to
+This will automatically reference upstream's main as the branch to
 land your pull request.
 
 Once you click Send Pull Request, you'll be on upstream's pull queue.
@@ -155,10 +155,10 @@ so this shouldn't happen too terribly often.
 ### Resyncing from upstream
 The general idea here is to always use a new branch to create new
 content you want to submit to the main AHA repo, known as upstream. In
-doing so you'll never work directly from your *master* branch, you'll
+doing so you'll never work directly from your *main* branch, you'll
 instead use new branches for each feature or speaker note.
 
-With this idea in mind, your *master* branch should always be an up to
+With this idea in mind, your *main* branch should always be an up to
 date version of the upstream AHA repo.
 
 The following will set this up:
@@ -178,13 +178,13 @@ git remote -v
 git fetch --all
 ```
 
-4. Sync your local master with the latest from upstream
+4. Sync your local main with the latest from upstream
 ```
-git reset --hard upstream/master
+git reset --hard upstream/main
 ```
 
-5. Push your local master to YOUR origin/github profile (optional)
+5. Push your local main to YOUR origin/github profile (optional)
 ```
-git push origin master
+git push origin main 
 ```
 
