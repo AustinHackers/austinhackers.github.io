@@ -21,7 +21,7 @@ There is no formal membership for AHA! However, participation is mandatory:
 * Follow the [Rules]({{ site.rules }})
 * Come to the [meetings]({{ site.meetingpage }})
 * Get on the AHA! [mailing list]({{ site.mailinglistpage }})
-* Join us on [IRC]({{ site.ircpage }})
+* Join us on [chat]({{ site.chatpage }})
 
 *NOTE: By "Academy" we mean we don't actually teach you anything. We are
 not a school.[1]*
