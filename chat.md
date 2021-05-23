@@ -11,7 +11,7 @@ While traditionally the best way to communicate in AHA was the [mailing
 list]({{ site.mailinglistpage }}), now the most common place to find us
 is on chat. We can be found via a number of private or invite services.
 
-### Discord (public)
+### Discord (public'ish)
 * Invite: [discord.gg/yMvbvst](https://discord.gg/yMvbvst)
 * Channel: aha-public
 * AHA! Members should ask for role to access aha-private
