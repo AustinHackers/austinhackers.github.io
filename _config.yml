@@ -29,3 +29,4 @@ footer-links:
   twitter: austinhackers
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
+include: [".well-known"]
