@@ -30,7 +30,7 @@ to be allowed entrance to the meetings, you must contribute to the group
 in some form. The best way to do this is to attend the meetings and **speak**
 about what you're working on, what you're up to, etc.
 
-> **Note**, *it is up to The Mob. to decide whether or not you are
+> **Note**, *it is up to The Mob to decide whether or not you are
 participating enough, and if it seems that you aren't the heavy-hand of
 the AHA Lords will come down upon you and you will be un-subbed from the
 email list, booted from IRC and/or heckled/removed if you continue to
