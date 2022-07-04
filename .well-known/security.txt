@@ -1,0 +1,4 @@
+Contact: mailto:todb@packetfu.com
+Expires: 2038-12-31T15:00:00.000Z
+Preferred-Languages: en
+Canonical: https://takeonme.org/.well-known/security.txt
