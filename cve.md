@@ -29,7 +29,7 @@ A short, easy to read and understand VDP goes here that covers things like coord
 
 ### Contact
 
-For questions about the AHA! CVE program, write to [cve@takeonme.org](mailto:cve@takeonme.org)
+For questions about the AHA! CVE program, write to [cve@takeonme.org](mailto:cve@takeonme.org).
 
 ## Published CVEs
 
