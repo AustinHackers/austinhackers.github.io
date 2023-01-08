@@ -27,6 +27,10 @@ A short, easy to read and understand VDP goes here that covers things like coord
 * Agree to abide by the the above VDP terms and conditions for publishing.
   - Failing to adehere to the VDP may result in expulsion from AHA!
 
+### Contact
+
+For questions about the AHA! CVE program, write to [cve@takeonme.org](mailto:cve@takeonme.org)
+
 ## Published CVEs
 
 We haven't issued any CVEs yet.
