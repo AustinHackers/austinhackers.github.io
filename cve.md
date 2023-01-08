@@ -12,9 +12,13 @@ To that end, AHA! will be adopting a vulnerability disclosure policy (VDP) for i
 
 ## Vulnerability Disclosure Policy
 
-Coming soon!
+Coming soon! Preamble goes here
 
-### How to generate an AHA! CVE
+### VDP
+
+A short, easy to read and understand VDP goes here that covers things like coordinating with vendors, expected times for a fix prior to publishing, and generating and populating a CVE ID. Many examples abound, and we should probably just use a [disclose.io] boilerplate.
+
+### Generating AHA! CVEs
 
 * Present your findings at a regularly scheduled meeting, under the usual public embargo terms (see our [rules](rules.html) for more details).
   - The most important rule is, "What happens at AHA! stays at AHA!"
