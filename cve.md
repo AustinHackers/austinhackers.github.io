@@ -11,7 +11,7 @@ Until this sentence is removed, please consider this entire page **in progress**
 
 Anonymous Hacking Alliance is pursuing an effort to become a **research oriented** [CVE Numbering Authority], under the [MITRE] program root.
 
-To that end, AHA! will be adopting a vulnerability disclosure policy (VDP) for issues that we become aware of during [meetings](meetings.html). We'll also be maintaining a collection of artisanal, bespoke CVE entries (CVEs) that we publish.
+To that end, AHA! will be adopting a vulnerability disclosure policy (VDP) for issues that we become aware of during [meetings]. We'll also be maintaining a collection of artisanal, bespoke CVE entries (CVEs) that we publish.
 
 Our VDP is derived from the [disclose.io](https://policymaker.disclose.io/policymaker/introduction) Policymaker, edited to cover vulnerability reports involving other parties.
 
@@ -29,11 +29,11 @@ This policy outlines steps for reporting vulnerabilities to us, what we expect, 
 
 This policy applies to any digital assets owned, operated, or maintained by AHA!
 
-Because AHA! is a research organization, we will also accept vulnerability reports involving assets owned, operated, or maintained by another organization which **is not already** participating as a [CVE Numbering Authority](https://www.cve.org/PartnerInformation/ListofPartners).
+Because AHA! is a research organization, we will also accept vulnerability reports involving assets owned, operated, or maintained by another organization which **is not already** participating as a [CVE Numbering Authority].
 
 ### Out of Scope
 
-- Assets or other equipment not owned by parties which **are already** participating as a [CVE Numbering Authority](https://www.cve.org/PartnerInformation/ListofPartners). 
+- Assets or other equipment not owned by parties which **are already** participating as a [CVE Numbering Authority]. 
 
 Vulnerabilities discovered or suspected in out-of-scope systems should be reported to the appropriate vendor or applicable authority.
 
@@ -62,7 +62,7 @@ In participating in our vulnerability disclosure program in good faith, we ask t
 
 ### Official Channels 
 
-Please report security issues affecting AHA! via [cve@takeonme.org](mailto:cve@takeonme.org), providing all relevant information. The more details you provide, the easier it will be for us to triage and fix the issue.
+Please report security issues affecting AHA! via [austinhackers@proton.me](mailto:austinhackers@proton.me), providing all relevant information. The more details you provide, the easier it will be for us to triage and fix the issue.
 
 Please report security issues affecting other parties during one of our regularly scheduled meetings if you wish for AHA! to coordinate vulnerability disclosure (including generating a CVE ID) for you. We will not accept vulnerability reports involving other parties that are not presented at a AHA! meeting.
 
@@ -96,6 +96,10 @@ For issues involving other parties, please see additional requirements, below. N
 
 Any questions about the AHA! CVE program should be directed to [cve@takeonme.org](mailto:cve@takeonme.org).
 
+Vulnerabilities involving AHA! should be reported to [austinhackers@proton.me](mailto:austinhackers@proton.me).
+
+Vulnerabilities involving other parties should be either presented at a regular AHA! [meeting], 
+
 ## Published CVEs
 
 We haven't issued any CVEs yet.
@@ -106,3 +110,5 @@ We haven't reserved any CVE IDs yet.
 
 [CVE Numbering Authority]: https://www.cve.org/PartnerInformation/ListofPartners
 [MITRE]: https://www.cve.org/PartnerInformation/ListofPartners/partner/mitre
+[meeting]: /meetings.html
+[meetings]: /meetings.html
