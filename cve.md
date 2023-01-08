@@ -98,7 +98,7 @@ Any questions about the AHA! CVE program should be directed to [cve@takeonme.org
 
 Vulnerabilities involving AHA! should be reported to [austinhackers@proton.me](mailto:austinhackers@proton.me).
 
-Vulnerabilities involving other parties should be either presented at a regular AHA! [meeting], 
+Vulnerabilities involving other parties should be either presented at a regular AHA! [meeting], the affected vendor, or kept to yourself.
 
 ## Published CVEs
 
