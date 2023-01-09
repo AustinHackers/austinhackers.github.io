@@ -62,7 +62,7 @@ In participating in our vulnerability disclosure program in good faith, we ask t
 
 ### Official Channels 
 
-Please report security issues affecting AHA! via [austinhackers@proton.me](mailto:austinhackers@proton.me), providing all relevant information. The more details you provide, the easier it will be for us to triage and fix the issue.
+Please report security issues affecting AHA! via [aha@takeonme.org](mailto:aha@takeonme.org), providing all relevant information. The more details you provide, the easier it will be for us to triage and fix the issue.
 
 Please report security issues affecting other parties during one of our regularly scheduled meetings if you wish for AHA! to coordinate vulnerability disclosure (including generating a CVE ID) for you. We will not accept vulnerability reports involving other parties that are not presented at a AHA! meeting.
 
@@ -96,7 +96,7 @@ For issues involving other parties, please see additional requirements, below. N
 
 Any questions about the AHA! CVE program should be directed to [cve@takeonme.org](mailto:cve@takeonme.org).
 
-Vulnerabilities involving AHA! should be reported to [austinhackers@proton.me](mailto:austinhackers@proton.me).
+Vulnerabilities involving AHA! should be reported to [aha@takeonme.org](mailto:aha@takeonme.org).
 
 Vulnerabilities involving other parties should be either presented at a regular AHA! [meeting], the affected vendor, or kept to yourself.
 
