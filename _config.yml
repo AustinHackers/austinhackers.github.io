@@ -27,7 +27,6 @@ footer-links:
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: austinhackers
-  mastodon: @austinhackers@infosec.exchange
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 include: [".well-known"]
