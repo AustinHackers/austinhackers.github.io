@@ -17,16 +17,8 @@ chatpage: chat.html
 avatar: /images/AHA-logo-black.png
 
 footer-links:
-  dribbble: 
-  email: 
-  facebook: 
-  flickr: 
+  email: aha@takeonme.org
   github: AustinHackers/austinhackers.github.io
-  instagram: 
-  linkedin: 
-  pinterest: 
-  rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: austinhackers
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 include: [".well-known"]
