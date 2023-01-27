@@ -7,7 +7,7 @@ This github repository contains the [website](http://takeonme.org) for the Austi
 
 ## Local Dev
 
-If you want to make changes and actually test them locally, a Rakefile is included to run the local jekyll server for testing.
+If you want to make changes and actually test them locally, a [Rakefile](https://github.com/AustinHackers/austinhackers.github.io/blob/main/Rakefile) is included to run the local jekyll server for testing.
 
 ```bundle exec rake```
 
