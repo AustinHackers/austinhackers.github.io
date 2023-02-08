@@ -9,7 +9,7 @@ showinnav: true
 
 ## Who we are
 The Austin Hackers Association is a loose group of hackers and
-security professionals in the Austin, Texas area. We have monthly [meetings]({{ site.meetingpage }}) that do have [rules]({{ site.rules }}). We also occasionally eat sushi, BBQ, and drink beer together.
+security professionals in the Austin, Texas area. We have monthly [meetings]({{ site.meetingpage }}) that do have [rules]({{ site.rules }}). We also occasionally eat sushi, BBQ, Tacos, and drink beer together.
 
 ## Our Meetings
 The meetings consist of short "turbo-talks" from anyone that would like
