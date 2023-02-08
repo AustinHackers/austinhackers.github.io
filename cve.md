@@ -7,11 +7,9 @@ showinnav: true
 
 # {{ page.title }}
 
-Until this sentence is removed, please consider this entire page **in progress** and therefore, should not be relied upon as accurate or useful information.
+Anonymous Hacking Alliance is a **research oriented** [CVE Numbering Authority], under the [MITRE] program root.
 
-Anonymous Hacking Alliance is pursuing an effort to become a **research oriented** [CVE Numbering Authority], under the [MITRE] program root.
-
-To that end, AHA! will be adopting a vulnerability disclosure policy (VDP) for issues that we become aware of during [meetings]. We'll also be maintaining a collection of artisanal, bespoke CVE entries (CVEs) that we publish.
+To that end, AHA! has adopted a vulnerability disclosure policy (VDP) for issues that we become aware of during [meetings]. We'll also be maintaining a collection of artisanal, bespoke CVE entries (CVEs) that we publish.
 
 Our VDP is derived from the [disclose.io](https://policymaker.disclose.io/policymaker/introduction) Policymaker, edited to cover vulnerability reports involving other parties.
 
@@ -81,7 +79,7 @@ If at any time you have concerns or are uncertain whether your security research
 
 > Note that the Safe Harbor applies only to legal claims under the control of the organization participating in this policy, and that the policy does not bind independent third parties.
 
-## Generating AHA! CVEs
+# Generating AHA! CVEs
 
 For issues involving other parties, please see additional requirements, below. Note, these requirements do not apply to AHA! assets.
 
@@ -108,7 +106,7 @@ We haven't issued any CVEs yet.
 
 We haven't reserved any CVE IDs yet.
 
-[CVE Numbering Authority]: https://www.cve.org/PartnerInformation/ListofPartners
+[CVE Numbering Authority]: https://www.cve.org/PartnerInformation/ListofPartners/partner/AHA
 [MITRE]: https://www.cve.org/PartnerInformation/ListofPartners/partner/mitre
 [meeting]: /meetings.html
 [meetings]: /meetings.html
