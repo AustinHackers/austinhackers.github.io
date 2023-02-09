@@ -12,10 +12,6 @@ Austin Hackers Anonymous is a **research oriented** [CVE Numbering Authority], u
 To that end, AHA! has adopted a vulnerability disclosure policy (VDP) for issues that we become aware of during [meetings]. We'll also be maintaining a collection of artisanal, bespoke CVE entries (CVEs) that we publish.
 
 Our VDP is derived from the [disclose.io](https://policymaker.disclose.io/policymaker/introduction) Policymaker, edited to cover vulnerability reports involving other parties.
-
-<details>
-  
-  <summary>VDP (click to expand)</summary>
   
 ## Vulnerability Disclosure Policy
 
@@ -83,12 +79,6 @@ If at any time you have concerns or are uncertain whether your security research
 
 > Note that the Safe Harbor applies only to legal claims under the control of the organization participating in this policy, and that the policy does not bind independent third parties.
 
-</details>
-  
-<details>
-  
-  <summary>CVEs (click to expand)</summary>
-
 # Generating AHA! CVEs
 
 For issues involving other parties, please see additional requirements, below. Note, these requirements do not apply to AHA! assets.
@@ -107,8 +97,6 @@ We haven't issued any CVEs yet.
 ## Reserved CVEs
 
 We haven't reserved any CVE IDs yet.
-
-</details>
 
 ### Contact
 
