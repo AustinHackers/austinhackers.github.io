@@ -7,7 +7,7 @@ showinnav: true
 
 # {{ page.title }}
 
-Anonymous Hacking Alliance is a **research oriented** [CVE Numbering Authority], under the [MITRE] program root.
+Austin Hackers Anonymous is a **research oriented** [CVE Numbering Authority], under the [MITRE] program root.
 
 To that end, AHA! has adopted a vulnerability disclosure policy (VDP) for issues that we become aware of during [meetings]. We'll also be maintaining a collection of artisanal, bespoke CVE entries (CVEs) that we publish.
 
