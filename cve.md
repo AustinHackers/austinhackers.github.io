@@ -116,7 +116,7 @@ Any questions about the AHA! CVE program should be directed to [cve@takeonme.org
 
 Vulnerabilities involving AHA! should be reported to [aha@takeonme.org](mailto:aha@takeonme.org).
 
-Vulnerabilities involving other parties must be either presented at a regular AHA! [meeting], the affected vendor, or kept to yourself.
+Vulnerabilities involving other parties must be either (1) presented at a regular AHA! [meeting], (2) disclosed directly to the affected vendor, or (3) kept to yourself.
 
 
 [CVE Numbering Authority]: https://www.cve.org/PartnerInformation/ListofPartners/partner/AHA
