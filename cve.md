@@ -7,14 +7,16 @@ showinnav: true
 
 # {{ page.title }}
 
-Until this sentence is removed, please consider this entire page **in progress** and therefore, should not be relied upon as accurate or useful information.
+Austin Hackers Anonymous is a **research oriented** [CVE Numbering Authority], under the [MITRE] program root.
 
-Anonymous Hacking Alliance is pursuing an effort to become a **research oriented** [CVE Numbering Authority], under the [MITRE] program root.
-
-To that end, AHA! will be adopting a vulnerability disclosure policy (VDP) for issues that we become aware of during [meetings]. We'll also be maintaining a collection of artisanal, bespoke CVE entries (CVEs) that we publish.
+To that end, AHA! has adopted a vulnerability disclosure policy (VDP) for issues that we become aware of during [meetings]. We'll also be maintaining a collection of artisanal, bespoke CVE entries (CVEs) that we publish.
 
 Our VDP is derived from the [disclose.io](https://policymaker.disclose.io/policymaker/introduction) Policymaker, edited to cover vulnerability reports involving other parties.
 
+<details>
+  
+  <summary>VDP (click to expand)</summary>
+  
 ## Vulnerability Disclosure Policy
 
 AHA! welcomes feedback from security researchers and the general public to help improve our security and the security of the internet in general.
@@ -81,7 +83,13 @@ If at any time you have concerns or are uncertain whether your security research
 
 > Note that the Safe Harbor applies only to legal claims under the control of the organization participating in this policy, and that the policy does not bind independent third parties.
 
-## Generating AHA! CVEs
+</details>
+  
+<details>
+  
+  <summary>CVEs (click to expand)</summary>
+
+# Generating AHA! CVEs
 
 For issues involving other parties, please see additional requirements, below. Note, these requirements do not apply to AHA! assets.
 
@@ -92,14 +100,6 @@ For issues involving other parties, please see additional requirements, below. N
 * Agree to abide by the the above VDP terms and conditions for publishing.
   - Failing to adehere to the VDP may result in expulsion from AHA!
 
-### Contact
-
-Any questions about the AHA! CVE program should be directed to [cve@takeonme.org](mailto:cve@takeonme.org).
-
-Vulnerabilities involving AHA! should be reported to [aha@takeonme.org](mailto:aha@takeonme.org).
-
-Vulnerabilities involving other parties should be either presented at a regular AHA! [meeting], the affected vendor, or kept to yourself.
-
 ## Published CVEs
 
 We haven't issued any CVEs yet.
@@ -108,7 +108,18 @@ We haven't issued any CVEs yet.
 
 We haven't reserved any CVE IDs yet.
 
-[CVE Numbering Authority]: https://www.cve.org/PartnerInformation/ListofPartners
+</details>
+
+### Contact
+
+Any questions about the AHA! CVE program should be directed to [cve@takeonme.org](mailto:cve@takeonme.org).
+
+Vulnerabilities involving AHA! should be reported to [aha@takeonme.org](mailto:aha@takeonme.org).
+
+Vulnerabilities involving other parties must be either (1) presented at a regular AHA! [meeting], (2) disclosed directly to the affected party, or (3) kept to yourself.
+
+
+[CVE Numbering Authority]: https://www.cve.org/PartnerInformation/ListofPartners/partner/AHA
 [MITRE]: https://www.cve.org/PartnerInformation/ListofPartners/partner/mitre
 [meeting]: /meetings.html
 [meetings]: /meetings.html
