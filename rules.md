@@ -13,8 +13,8 @@ There are five basic rules of AHA.
 1. What happens at AHA, stays at AHA.
 2. There is no recording or filming allowed.
 3. You must participate to remain a member.
-4. Keep your talk under 10 mins.
-5. Pitching product/company or recruiting for headcount? YOU MUST BUY BOOZE
+4. Keep your talk under 10 mins. Introductory talks (noob talks) should be very short.
+5. Pitching product/company or recruiting for headcount? YOU MUST BUY A ROUND FOR THE ENTIRE GROUP.
 
 1) Do not discuss presentations or conversations at AHA outside of the meeting, with anyone. Examples would include
 discussing presentations with a journalist, with your boss, or with a representative of a relevant vendor.
