@@ -5,17 +5,21 @@ categories: nav
 showinnav: true
 ---
 
-# {{ page.title }}
+# AHA! is a Research CNA!
 
-Austin Hackers Anonymous is a **research oriented** [CVE Numbering Authority], under the [MITRE] program root.
+Austin Hackers Anonymous is a **research oriented** [CVE Numbering Authority], under the [MITRE] program root. This means a couple things.
 
-To that end, AHA! has adopted a vulnerability disclosure policy (VDP) for issues that we become aware of during [meetings]. We'll also be maintaining a collection of artisanal, bespoke CVE entries (CVEs) that we publish.
+For one, we now have a vulnerability disclosure policy (VDP) that covers vulns discovered in our own stuff and in other parties' assets.
+
+Secondly, it means that we'll occasionally publish artisanal, bespoke CVE entries (CVEs) for these vulnerabilities. For more on AHA!'s CVE assignment scope, see our [CVE Numbering Authority] page on [MITRE]'s site.
 
 Our VDP is derived from the [disclose.io](https://policymaker.disclose.io/policymaker/introduction) Policymaker, edited to cover vulnerability reports involving other parties.
-  
+
 ## Vulnerability Disclosure Policy
 
-AHA! welcomes feedback from security researchers and the general public to help improve our security and the security of the internet in general.
+AHA! welcomes feedback from security researchers and the general public to help improve our security and the security of the internet in general. Click the below to read more about that.
+
+[expand]
 
 If you believe you have discovered a vulnerability, privacy issue, exposed data, or other security issues in any of our assets, we want to hear from you. This would include, but is not limited to, the AHA! website, AHA! e-mail services, and other AHA! communication channels.
 
@@ -77,26 +81,37 @@ You are expected, as always, to comply with all applicable laws. If legal action
 
 If at any time you have concerns or are uncertain whether your security research is consistent with this policy, please submit a report through one of our Official Channels before going any further.
 
-> Note that the Safe Harbor applies only to legal claims under the control of the organization participating in this policy, and that the policy does not bind independent third parties.
+*Note that the Safe Harbor applies only to legal claims under the control of the organization participating in this policy, and that the policy does not bind independent third parties.*
+
+[/expand]
 
 # Generating AHA! CVEs
 
 For issues involving other parties, please see additional requirements, below. Note, these requirements do not apply to AHA! assets.
 
-* Present your findings at a regularly scheduled meeting, under the usual public embargo terms (see our [rules](rules.html) for more details).
+* Present your findings at a regularly scheduled [meeting], under the usual public embargo terms (see our [rules](rules.html) for more details).
   - The most important rule is, "What happens at AHA! stays at AHA!"
 * Ask a CVE point of contact for a CVE ID reservation.
   - Merely reserving a CVE ID number in no way alters the usual AHA! embargo on material presented at AHA!
 * Agree to abide by the the above VDP terms and conditions for publishing.
   - Failing to adehere to the VDP may result in expulsion from AHA!
 
+<br/>
 ## Published CVEs
 
 We haven't issued any CVEs yet.
 
 ## Reserved CVEs
 
-We haven't reserved any CVE IDs yet.
+We've reserved the following CVEs for upcoming publication
+
+| CVE           | Meeting   |
+| ------------- | --------- |
+| CVE-2023-0666 | 0x00c7    |
+| CVE-2023-0667 | 0x00c7    |
+| CVE-2023-0668 | 0x00c7    |
+| CVE-2023-2905 | 0x00c8    |
+| CVE-2023-2906 | 0x00c8    |
 
 ### Contact
 
