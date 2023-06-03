@@ -11,7 +11,7 @@ Austin Hackers Anonymous is a **research oriented** [CVE Numbering Authority], u
 
 For one, we now have a vulnerability disclosure policy (VDP) that covers vulns discovered in our own stuff and in other parties' assets.
 
-Secondly, it means that we'll occasionally publish artisanal, artisanal, bespoke CVE entries (CVEs) for these vulnerabilities. For more on AHA!'s CVE assignment scope, see our [CVE Numbering Authority] page on [MITRE]'s site.
+Secondly, it means that we'll occasionally publish artisanal, bespoke CVE entries (CVEs) for these vulnerabilities. For more on AHA!'s CVE assignment scope, see our [CVE Numbering Authority] page on [MITRE]'s site.
 
 Our VDP is derived from the [disclose.io](https://policymaker.disclose.io/policymaker/introduction) Policymaker, edited to cover vulnerability reports involving other parties.
 
