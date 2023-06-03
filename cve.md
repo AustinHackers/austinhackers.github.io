@@ -103,7 +103,15 @@ We haven't issued any CVEs yet.
 
 ## Reserved CVEs
 
-We haven't reserved any CVE IDs yet.
+We've reserved the following CVEs for upcoming publication
+
+| CVE           | Meeting   |
+| ------------- | --------- |
+| CVE-2023-0666 | 0x00c7    |
+| CVE-2023-0667 | 0x00c7    |
+| CVE-2023-0668 | 0x00c7    |
+| CVE-2023-2905 | 0x00c8    |
+| CVE-2023-2906 | 0x00c8    |
 
 ### Contact
 
