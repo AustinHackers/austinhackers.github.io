@@ -1,7 +1,7 @@
+<!-- Downloaded 2023-06-03 from https://jekyllcodex.org/without-plugin/text-expand/ -->
+
 <script>
-    <!--
-    Downloaded 2023-06-03 from https://jekyllcodex.org/without-plugin/text-expand/
-    -->
+
     var elements = document.querySelectorAll('p');
     Array.prototype.forEach.call(elements, function(el, i){
         if(el.innerHTML=='[expand]') {
@@ -12,7 +12,7 @@
 
     var elements = document.querySelectorAll('div.expand');
     Array.prototype.forEach.call(elements, function(el, i){
-        el.previousElementSibling.innerHTML = el.previousElementSibling.innerHTML + '<span>..&nbsp; <a href="#" style="cursor: pointer;" onclick="this.parentNode.parentNode.nextElementSibling.style.display = \'block\'; this.parentNode.parentNode.nextElementSibling.style.height = \'auto\'; this.parentNode.style.display = \'none\';">read&nbsp;more&nbsp;&rarr;</a></span>';
+        el.previousElementSibling.innerHTML = el.previousElementSibling.innerHTML + '<span><br/>&nbsp; <a href="#" style="cursor: pointer;" onclick="this.parentNode.parentNode.nextElementSibling.style.display = \'block\'; this.parentNode.parentNode.nextElementSibling.style.height = \'auto\'; this.parentNode.style.display = \'none\';">Click&nbsp;to&nbsp;expand&rarr;</a></span>';
     });
 
 </script>
