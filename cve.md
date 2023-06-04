@@ -105,7 +105,8 @@ When we publish CVEs, we will tend to use this [template], adjusted to taste.
 | CVE              | Meeting   | Issue                                      |
 | ---------------- | --------- | ------------------------------------------ | 
 | [CVE-2023-0666]  | 0x00c7    | **Wireshark RTPS Parsing Buffer Overflow** | 
-| [CVE-2023-0667]  | 0x00c7    | **Wireshark RTPS Parsing Buffer Overflow** |
+| [CVE-2023-0667]  | 0x00c7    | **Wireshark MSMMS parsing buffer overflow** |
+| [CVE-2023-0668]  | 0x00c7    | **Wireshark IEEE-C37.118 parsing buffer overflow** |
 
 ## Reserved CVEs
 
@@ -113,8 +114,6 @@ We've reserved the following CVEs for upcoming publication.
 
 | CVE           | Meeting   |
 | ------------- | --------- |
-| CVE-2023-0667 | 0x00c7    |
-| CVE-2023-0668 | 0x00c7    |
 | CVE-2023-2905 | 0x00c8    |
 | CVE-2023-2906 | 0x00c8    |
 
