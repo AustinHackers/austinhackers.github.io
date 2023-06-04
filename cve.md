@@ -105,6 +105,7 @@ When we publish CVEs, we will tend to use this [template], adjusted to taste.
 | CVE              | Meeting   | Issue                                      |
 | ---------------- | --------- | ------------------------------------------ | 
 | [CVE-2023-0666]  | 0x00c7    | **Wireshark RTPS Parsing Buffer Overflow** | 
+| [CVE-2023-0667]  | 0x00c7    | **Wireshark RTPS Parsing Buffer Overflow** |
 
 ## Reserved CVEs
 
@@ -132,3 +133,4 @@ Vulnerabilities involving other parties must be either (1) presented at a regula
 [meetings]: /meetings.html
 [template]: /cves/CVE-20XX-YYYY.html
 [CVE-2023-0666]: /cves/CVE-2023-0666.html
+[CVE-2023-0667]: /cves/CVE-2023-0667.html
