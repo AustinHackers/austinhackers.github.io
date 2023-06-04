@@ -88,6 +88,10 @@ a:active { color: #ffffff; }
   line-height: 1.5em;
 }
 
+.site h1,h2,h3,h4,h5,h6 {
+  text-align: left;
+}
+
 .site .header-m {
   border-bottom: 1px solid #eeeeee;
   height: 120px;
