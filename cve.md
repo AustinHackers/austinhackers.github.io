@@ -97,17 +97,21 @@ For issues involving other parties, please see additional requirements, below. N
   - Failing to adehere to the VDP may result in expulsion from AHA!
 
 <br/>
+
 ## Published CVEs
 
 When we publish CVEs, we will tend to use this [template], adjusted to taste.
 
+| CVE              | Meeting   | Issue                                      |
+| ---------------- | --------- | ------------------------------------------ | 
+| [CVE-2023-0666]  | 0x00c7    | **Wireshark RTPS Parsing Buffer Overflow** | 
+
 ## Reserved CVEs
 
-We've reserved the following CVEs for upcoming publication
+We've reserved the following CVEs for upcoming publication.
 
 | CVE           | Meeting   |
 | ------------- | --------- |
-| CVE-2023-0666 | 0x00c7    |
 | CVE-2023-0667 | 0x00c7    |
 | CVE-2023-0668 | 0x00c7    |
 | CVE-2023-2905 | 0x00c8    |
@@ -126,4 +130,5 @@ Vulnerabilities involving other parties must be either (1) presented at a regula
 [MITRE]: https://www.cve.org/PartnerInformation/ListofPartners/partner/mitre
 [meeting]: /meetings.html
 [meetings]: /meetings.html
-[template]: /cves/cve-template.html
+[template]: /cves/CVE-20XX-YYYY.html
+[CVE-2023-0666]: /cves/CVE-2023-0666.html
