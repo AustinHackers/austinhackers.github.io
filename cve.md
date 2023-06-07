@@ -99,7 +99,7 @@ For issues involving other parties, please see additional requirements, below. N
 <br/>
 ## Published CVEs
 
-We haven't issued any CVEs yet.
+When we publish CVEs, we will tend to use this [template], adjusted to taste.
 
 ## Reserved CVEs
 
@@ -126,3 +126,4 @@ Vulnerabilities involving other parties must be either (1) presented at a regula
 [MITRE]: https://www.cve.org/PartnerInformation/ListofPartners/partner/mitre
 [meeting]: /meetings.html
 [meetings]: /meetings.html
+[template]: /cves/cve-template.html
