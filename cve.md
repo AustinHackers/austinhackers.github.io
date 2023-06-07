@@ -133,4 +133,4 @@ Vulnerabilities involving other parties must be either (1) presented at a regula
 [template]: /cves/CVE-20XX-YYYY.html
 [CVE-2023-0666]: /cves/CVE-2023-0666.html
 [CVE-2023-0667]: /cves/CVE-2023-0667.html
-[CVE-2023-0667]: /cves/CVE-2023-0668.html
+[CVE-2023-0668]: /cves/CVE-2023-0668.html
