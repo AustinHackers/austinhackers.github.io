@@ -270,3 +270,27 @@ a:active { color: #ffffff; }
 .post pre.terminal code {
   background-color: #333;
 }
+
+/* Tables courtesy of ChatGPT */
+
+/* Tables */
+table {
+  max-width: 100%;
+  width: auto;
+  border-collapse: collapse;
+}
+
+table th,
+table td {
+  padding: 10px;
+  text-align: left;
+}
+
+table th {
+  background-color: #eee;
+}
+
+table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
