@@ -116,6 +116,7 @@ We've reserved the following CVEs for upcoming publication.
 | CVE           | Meeting   |
 | ------------- | --------- |
 | CVE-2023-2906 | 0x00c8    |
+| CVE-2023-4504 | 0x00c9    |
 
 ### Contact
 
