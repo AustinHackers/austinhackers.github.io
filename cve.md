@@ -109,6 +109,7 @@ When we publish CVEs, we will tend to use this [template], adjusted to taste.
 | [CVE-2023-0668]  | 0x00c7    | **Wireshark IEEE-C37.118 parsing buffer overflow** |
 | [CVE-2023-2905]  | 0x00c8    | **Cesanta Mongoose MQTT Message Parsing Heap Overflow** |
 | [CVE-2023-2906]  | 0x00c8    | **Wireshark CP2179 divide by zero** |
+| [CVE-2023-4504]  | 0x00c9    | **CUPS/libppd PostScript Parsing Heap Overflow** |
 
 ## Reserved CVEs
 
@@ -116,7 +117,7 @@ We've reserved the following CVEs for upcoming publication.
 
 | CVE           | Meeting   |
 | ------------- | --------- |
-| CVE-2023-4504 | 0x00c9    |
+| CVE-2023-4529 | 0x00c9    |
 
 ### Contact
 
@@ -137,3 +138,4 @@ Vulnerabilities involving other parties must be either (1) presented at a regula
 [CVE-2023-0668]: /cves/CVE-2023-0668.html
 [CVE-2023-2905]: /cves/CVE-2023-2905.html
 [CVE-2023-2906]: /cves/CVE-2023-2906.html
+[CVE-2023-4504]: /cves/CVE-2023-4504.html
