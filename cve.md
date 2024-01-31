@@ -94,7 +94,7 @@ For issues involving other parties, please see additional requirements, below. N
 * Ask a CVE point of contact for a CVE ID reservation.
   - Merely reserving a CVE ID number in no way alters the usual AHA! embargo on material presented at AHA!
 * Agree to abide by the the above VDP terms and conditions for publishing.
-  - Failing to adehere to the VDP may result in expulsion from AHA!
+  - Failing to adhere to the VDP may result in expulsion from AHA!
 
 <br/>
 
