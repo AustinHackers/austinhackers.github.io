@@ -116,9 +116,9 @@ When we publish CVEs, we will tend to use this [template], adjusted to taste.
 
 We've reserved the following CVEs for upcoming publication.
 
-| CVE           | Meeting   |
-| ------------- | --------- |
-| CVE-2023-4529 | 0x00c9    |
+| CVE             | Meeting   |
+| --------------- | --------- |
+| None right now! | 0x00xx    |
 
 ### Contact
 
