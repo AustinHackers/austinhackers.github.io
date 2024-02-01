@@ -94,7 +94,7 @@ For issues involving other parties, please see additional requirements, below. N
 * Ask a CVE point of contact for a CVE ID reservation.
   - Merely reserving a CVE ID number in no way alters the usual AHA! embargo on material presented at AHA!
 * Agree to abide by the the above VDP terms and conditions for publishing.
-  - Failing to adehere to the VDP may result in expulsion from AHA!
+  - Failing to adhere to the VDP may result in expulsion from AHA!
 
 <br/>
 
@@ -110,14 +110,15 @@ When we publish CVEs, we will tend to use this [template], adjusted to taste.
 | [CVE-2023-2905]  | 0x00c8    | **Cesanta Mongoose MQTT Message Parsing Heap Overflow** |
 | [CVE-2023-2906]  | 0x00c8    | **Wireshark CP2179 divide by zero** |
 | [CVE-2023-4504]  | 0x00c9    | **CUPS/libppd PostScript Parsing Heap Overflow** |
+| [CVE-2023-5841]  | 0x00cd    | **OpenEXR Heap Overflow in Scanline Deep Data Parsing** |
 
 ## Reserved CVEs
 
 We've reserved the following CVEs for upcoming publication.
 
-| CVE           | Meeting   |
-| ------------- | --------- |
-| CVE-2023-5841 | 0x00cd    |
+| CVE             | Meeting   |
+| --------------- | --------- |
+| None right now! | 0x00xx    |
 
 ### Contact
 
@@ -139,3 +140,4 @@ Vulnerabilities involving other parties must be either (1) presented at a regula
 [CVE-2023-2905]: /cves/CVE-2023-2905.html
 [CVE-2023-2906]: /cves/CVE-2023-2906.html
 [CVE-2023-4504]: /cves/CVE-2023-4504.html
+[CVE-2023-5841]: /cves/CVE-2023-5841.html
