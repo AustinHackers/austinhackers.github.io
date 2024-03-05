@@ -111,6 +111,10 @@ When we publish CVEs, we will tend to use this [template], adjusted to taste.
 | [CVE-2023-2906]  | 0x00c8    | **Wireshark CP2179 divide by zero** |
 | [CVE-2023-4504]  | 0x00c9    | **CUPS/libppd PostScript Parsing Heap Overflow** |
 | [CVE-2023-5841]  | 0x00cd    | **OpenEXR Heap Overflow in Scanline Deep Data Parsing** |
+| [CVE-2024-2053]  | 0x00d1    | **Artica Proxy Unauthenticated LFI Protection Bypass** |
+| [CVE-2024-2054]  | 0x00d1    | **Artica Proxy Unauthenticated PHP Deserialization** |
+| [CVE-2024-2055]  | 0x00d1    | **Artica Proxy Unauthenticated File Manage** |
+| [CVE-2024-2056]  | 0x00d1    | **Artica Proxy Loopback Services Remotely Accessible Unauthenticated** |
 
 ## Reserved CVEs
 
@@ -118,10 +122,7 @@ We've reserved the following CVEs for upcoming publication.
 
 | CVE             | Meeting   |
 | --------------- | --------- |
-| CVE-2024-2053   | 0x00d1    |
-| CVE-2024-2054   | 0x00d1    |
-| CVE-2024-2055   | 0x00d1    |
-| CVE-2024-2056   | 0x00d1    |
+| None yet!       | 0x00xx    |
 
 ### Contact
 
@@ -144,3 +145,8 @@ Vulnerabilities involving other parties must be either (1) presented at a regula
 [CVE-2023-2906]: /cves/CVE-2023-2906.html
 [CVE-2023-4504]: /cves/CVE-2023-4504.html
 [CVE-2023-5841]: /cves/CVE-2023-5841.html
+[CVE-2024-2053]: https://korelogic.com/Resources/Advisories/KL-001-2024-001.txt
+[CVE-2024-2054]: https://korelogic.com/Resources/Advisories/KL-001-2024-002.txt
+[CVE-2024-2055]: https://korelogic.com/Resources/Advisories/KL-001-2024-003.txt
+[CVE-2024-2056]: https://korelogic.com/Resources/Advisories/KL-001-2024-004.txt
+
