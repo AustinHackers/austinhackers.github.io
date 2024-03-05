@@ -118,7 +118,10 @@ We've reserved the following CVEs for upcoming publication.
 
 | CVE             | Meeting   |
 | --------------- | --------- |
-| None right now! | 0x00xx    |
+| CVE-2024-2053   | 0x00d1    |
+| CVE-2024-2054   | 0x00d1    |
+| CVE-2024-2055   | 0x00d1    |
+| CVE-2024-2056   | 0x00d1    |
 
 ### Contact
 
