@@ -122,7 +122,7 @@ We've reserved the following CVEs for upcoming publication.
 
 | CVE             | Meeting   |
 | --------------- | --------- |
-| None yet!       | 0x00xx    |
+| CVE-2024-4224   | 0x00d4    |
 
 ### Contact
 
