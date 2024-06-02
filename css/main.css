@@ -42,15 +42,19 @@ a:visited { color: #a0a; }
 /*
 /*****************************************************************************/
 blockquote {
-  text-indent: 25px;
+  margin: 25px;
 }
 
 li {   
-  margin-left: 35px;
+  margin-left: 25px;
+}
+
+ol {
+  margin-left: 25px;
 }
 
 ul {
-  margin-left: 50px;
+  margin-left: 25px;
 }
 
 ul.posts {
