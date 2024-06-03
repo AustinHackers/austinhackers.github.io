@@ -42,15 +42,19 @@ a:visited { color: #a0a; }
 /*
 /*****************************************************************************/
 blockquote {
-  text-indent: 25px;
+  margin: 25px;
 }
 
 li {   
-  margin-left: 35px;
+  margin-left: 25px;
+}
+
+ol {
+  margin-left: 25px;
 }
 
 ul {
-  margin-left: 50px;
+  margin-left: 25px;
 }
 
 ul.posts {
@@ -240,24 +244,25 @@ a:active { color: #ffffff; }
 /*****************************************************************************/
 
 /* standard */
-.post pre {
-  border: 1px solid #ddd;
+pre, code {
   background-color: #eef;
-  padding: 0 .4em;
+  padding-left: 4px;
+  padding-right: 4px;
 }
 
-.post ul, .post ol {
-  margin-left: 1.35em;
-}
-
-.post code {
-  border: 1px solid #ddd;
-  background-color: #eef;
-  padding: 0 .2em;
-}
-
-.post pre code {
+div.language-plaintext pre {
   border: none;
+  display: block;
+  background-color: #eef;
+  white-space: pre-wrap;
+  text-align: left;
+  margin: 0; /* Reset margin */
+  padding: 0; /* Reset padding */
+}
+
+div.language-plaintext pre code {
+  margin: 0; /* Reset margin */
+  padding: 0; /* Reset padding */
 }
 
 /* terminal */
