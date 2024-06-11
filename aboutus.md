@@ -42,8 +42,8 @@ present on at AHA! While this may seem challenging, it's actually quite
 easy. We have some basic suggestions that may help you:
 
 * Present your own material/work
-* We love code, demo's and live examples of work. But make it your own.
-   Don't give us a 101 on a topic that any of us could just lookup.
+* We love code, demos, and live examples of work. But make it your own.
+   Don't give us a 101 on a topic that any of us could just lookup
 ourselves or read an already written how-to on.
 * It doesn't have to be finished work.
 * If you've shown you're doing your own research but are stuck, come
