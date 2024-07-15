@@ -115,6 +115,7 @@ When we publish CVEs, we will tend to use this [template], adjusted to taste.
 | [CVE-2024-2054]  | 0x00d1    | **Artica Proxy Unauthenticated PHP Deserialization** |
 | [CVE-2024-2055]  | 0x00d1    | **Artica Proxy Unauthenticated File Manage** |
 | [CVE-2024-2056]  | 0x00d1    | **Artica Proxy Loopback Services Remotely Accessible Unauthenticated** |
+| [CVE-2024-4224]  | 0x00d3    | **TP-Link TL-SG1016DE XSS** | 
 
 ## Reserved CVEs
 
@@ -122,7 +123,7 @@ We've reserved the following CVEs for upcoming publication.
 
 | CVE             | Meeting   |
 | --------------- | --------- |
-| CVE-2024-4224   | 0x00d4    |
+| None yet!       | 0x00xx    |
 
 ### Contact
 
@@ -149,4 +150,4 @@ Vulnerabilities involving other parties must be either (1) presented at a regula
 [CVE-2024-2054]: https://korelogic.com/Resources/Advisories/KL-001-2024-002.txt
 [CVE-2024-2055]: https://korelogic.com/Resources/Advisories/KL-001-2024-003.txt
 [CVE-2024-2056]: https://korelogic.com/Resources/Advisories/KL-001-2024-004.txt
-
+[CVE-2024-4224]: /cves/CVE-2024-4224.html
