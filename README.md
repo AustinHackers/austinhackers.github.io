@@ -1,7 +1,6 @@
-AHA! Website
-==
+# AHA! Website
 
-[![deployment](https://github.com/AustinHackers/austinhackers.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/AustinHackers/austinhackers.github.io/actions/workflows/pages/pages-build-deployment)
+[![deployment](https://github.com/AustinHackers/austinhackers.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/AustinHackers/austinhackers.github.io/actions/workflows/pages/pages-build-deployment) [![Website](https://img.shields.io/website?url=https%3A%2F%2Ftakeonme.org&label=takeonme.org&link=https%3A%2F%2Fk0mvh.io)](https://takeonme.org/)
 
 This github repository contains the [website](http://takeonme.org) for the Austin Hackers Anonymous group. Someone should really update it to make it suck less.
 
@@ -11,4 +10,4 @@ If you want to make changes and actually test them locally, a [Rakefile](https:/
 
 ```bundle exec rake```
 
-This will launch a local webserver running on http://127.0.0.1:4000/ that auto-updates the test site live when changes are detected on disk. 
+This will launch a local web server running on <http://127.0.0.1:4000/> that auto-updates the test site live when changes are detected on disk.
