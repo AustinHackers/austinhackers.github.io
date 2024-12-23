@@ -1,0 +1,148 @@
+#baseURL = 'https://mauvehed.github.io/austinhackers-hugo'
+baseURL = "https://takeonme.org"
+languageCode = 'en-us'
+title = 'Austin Hackers Anonymous'
+theme = 'terminal'
+
+pagination.pagerSize = 5
+
+[params]
+  # dir name of your main content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  contentTypeName = "posts"
+
+  # if you set this to 0, only submenu trigger will be visible
+  showMenuItems = 10
+
+  # show selector to switch language
+  showLanguageSelector = false
+
+  # set theme to full screen width
+  fullWidthTheme = false
+
+  # center theme with default width
+  centerTheme = true
+
+  # if your resource directory contains an image called `cover.(jpg|png|webp)`,
+  # then the file will be used as a cover automatically.
+  # With this option you don't have to put the `cover` param in a front-matter.
+  autoCover = true
+
+  # set post to show the last updated
+  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
+  showLastUpdated = false
+
+  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
+  # updatedDatePrefix = "Updated"
+
+  # whether to show a page's estimated reading time
+  readingTime = false
+
+  # whether to show a table of contents
+  # can be overridden in a page's front-matter
+  # Toc = false # default
+
+  # set title for the table of contents
+  # can be overridden in a page's front-matter
+  # TocTitle = "Table of Contents" # default
+
+  # Set date/time format for posts
+  # This will impact the date/time displayed on
+  # index.html, the posts list page, and on posts themselves
+  # This value can also be configured per-post on front matter
+  # If you have any issues with the timezone rendering differently
+  # than you expected, please ensure your timezone is correctly set
+  # on your server.
+  # This value can be customized according to Hugo documentation:
+  # https://gohugo.io/functions/time/format/
+  # Default value (no changes needed):
+  # dateFormat = "2006-01-02"
+  # Example format, with date, time, and timezone abbreviation:
+  dateFormat = "2006-01-02 3:04:06 PM CDT"
+
+
+[params.twitter]
+  # set Twitter handles for Twitter cards
+  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
+  # do not include @
+  creator = "austinhackers"
+  site = ""
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "AHA!"
+
+    [languages.en.params]
+      subtitle = "Austin Hackers Anonymous!"
+      owner = "AHA!"
+      keywords = "hackers, austin, texas"
+      copyright = "Austin Hackers Anonymous"
+      menuMore = "Show more"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
+      minuteReadingTime = "min read"
+      words = "words"
+
+      [languages.en.params.logo]
+        logoText = "AHA!"
+        logoHomeLink = "/"
+
+      [languages.en.menu]
+				[[languages.en.menu.main]]
+						name = "Home"
+						url  = "/"
+						weight = 1
+
+				[[languages.en.menu.main]]
+				    name = "About"
+				    url  = "/about/"
+				    weight = 3
+				
+				[[languages.en.menu.main]]
+				    name = "Rules"
+				    url  = "/rules/"
+				    weight = 5
+
+				[[languages.en.menu.main]]
+				    name = "Chat"
+				    url  = "/chat/"
+				    weight = 7
+				
+				[[languages.en.menu.main]]
+				    name = "CVE"
+				    url  = "/cve/"
+				    weight = 9
+				
+				[[languages.en.menu.main]]
+				    name = "Mailing List"
+				    url  = "/mailinglist/"
+				    weight = 11 
+				
+				[[languages.en.menu.main]]
+				    name = "Meetings"
+				    url  = "/meetings/"
+				    weight = 13 
+				
+				[[languages.en.menu.main]]
+				    name = "Our Spawn"
+				    url  = "/ourspawn/"
+				    weight = 15 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+#[module]
+  # In case you would like to make changes to the theme and keep it locally in you repository,
+  # uncomment the line below (and correct the local path if necessary).
+  # --
+  # replacements = "github.com/panr/hugo-theme-terminal/v4 -> themes/terminal"
+#[[module.imports]]
+#  path = 'https://github.com/panr/hugo-theme-terminal'
+
