@@ -9,4 +9,4 @@ Should you need to make contact with AHA, you can use one of the following and d
 
 - **Email**: [aha@takeonme.org](mailto:aha@takeonme.org)
 - **PGP**: Email us from your [Proton Mail](https://proton.me/support/proton-mail-encryption-explained) to ours
-- **Discord**: Ask for assistance in [chat](#aha-public)
+- **Discord**: Ask for assistance in [chat](chat) (#aha-public)
