@@ -133,6 +133,11 @@ pagination.pagerSize = 5
 				    url  = "/ourspawn/"
 				    weight = 15 
 
+				[[languages.en.menu.main]]
+				    name = "Contact"
+				    url  = "/contact/"
+				    weight =17 
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
