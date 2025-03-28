@@ -31,7 +31,7 @@ Because AHA! is a research organization, we will also accept vulnerability repor
 
 ### Out of Scope
 
-- Assets or other equipment not owned by parties which **are already** participating as a [CVE Numbering Authority]. 
+- Assets or other equipment not owned by parties which **are already** participating as a [CVE Numbering Authority].
 
 Vulnerabilities discovered or suspected in out-of-scope systems should be reported to the appropriate vendor or applicable authority.
 
@@ -56,9 +56,9 @@ In participating in our vulnerability disclosure program in good faith, we ask t
 - Perform testing only on in-scope systems, and respect systems and activities which are out-of-scope;
 - If a vulnerability provides unintended access to data: Limit the amount of data you access to the minimum required for effectively demonstrating a Proof of Concept; and cease testing and submit a report immediately if you encounter any user data during testing, such as Personally Identifiable Information (PII), Personal Healthcare Information (PHI), credit card data, or proprietary information;
 - You should only interact with test accounts you own or with explicit permission from the account holder; and
-- Do not engage in extortion.  
+- Do not engage in extortion.
 
-### Official Channels 
+### Official Channels
 
 Please report security issues affecting AHA! via [aha@takeonme.org](mailto:aha@takeonme.org), providing all relevant information. The more details you provide, the easier it will be for us to triage and fix the issue.
 
@@ -97,8 +97,8 @@ For issues involving other parties, please see additional requirements, below. N
 When we publish CVEs, we will tend to use this [template], adjusted to taste.
 
 | CVE              | Meeting   | Issue                                      |
-| ---------------- | --------- | ------------------------------------------ | 
-| [CVE-2023-0666]  | 0x00c7    | **Wireshark RTPS Parsing Buffer Overflow** | 
+| ---------------- | --------- | ------------------------------------------ |
+| [CVE-2023-0666]  | 0x00c7    | **Wireshark RTPS Parsing Buffer Overflow** |
 | [CVE-2023-0667]  | 0x00c7    | **Wireshark MSMMS parsing buffer overflow** |
 | [CVE-2023-0668]  | 0x00c7    | **Wireshark IEEE-C37.118 parsing buffer overflow** |
 | [CVE-2023-2905]  | 0x00c8    | **Cesanta Mongoose MQTT Message Parsing Heap Overflow** |
@@ -109,7 +109,8 @@ When we publish CVEs, we will tend to use this [template], adjusted to taste.
 | [CVE-2024-2054]  | 0x00d1    | **Artica Proxy Unauthenticated PHP Deserialization** |
 | [CVE-2024-2055]  | 0x00d1    | **Artica Proxy Unauthenticated File Manage** |
 | [CVE-2024-2056]  | 0x00d1    | **Artica Proxy Loopback Services Remotely Accessible Unauthenticated** |
-| [CVE-2024-4224]  | 0x00d3    | **TP-Link TL-SG1016DE XSS** | 
+| [CVE-2024-4224]  | 0x00d3    | **TP-Link TL-SG1016DE XSS** |
+| [CVE-2025-2894]  | 0x00de    | **Unitree Go1 Backdoor Control Channel |
 
 ## Reserved CVEs
 
@@ -145,4 +146,4 @@ Vulnerabilities involving other parties must be either (1) presented at a regula
 [CVE-2024-2055]: https://korelogic.com/Resources/Advisories/KL-001-2024-003.txt
 [CVE-2024-2056]: https://korelogic.com/Resources/Advisories/KL-001-2024-004.txt
 [CVE-2024-4224]: {{< baseurl >}}cves/cve-2024-4224/
-
+[CVE-2025-2894]: {{< baseurl >}}cves/cve-2025-2894/
