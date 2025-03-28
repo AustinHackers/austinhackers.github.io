@@ -110,7 +110,7 @@ When we publish CVEs, we will tend to use this [template], adjusted to taste.
 | [CVE-2024-2055]  | 0x00d1    | **Artica Proxy Unauthenticated File Manage** |
 | [CVE-2024-2056]  | 0x00d1    | **Artica Proxy Loopback Services Remotely Accessible Unauthenticated** |
 | [CVE-2024-4224]  | 0x00d3    | **TP-Link TL-SG1016DE XSS** |
-| [CVE-2025-2894]  | 0x00de    | **Unitree Go1 Backdoor Control Channel |
+| [CVE-2025-2894]  | 0x00de    | **Unitree Go1 Backdoor Control Channel** |
 
 ## Reserved CVEs
 
