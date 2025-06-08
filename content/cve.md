@@ -111,6 +111,21 @@ When we publish CVEs, we will tend to use this [template], adjusted to taste.
 | [CVE-2024-2056]  | 0x00d1    | **Artica Proxy Loopback Services Remotely Accessible Unauthenticated** |
 | [CVE-2024-4224]  | 0x00d3    | **TP-Link TL-SG1016DE XSS** |
 | [CVE-2025-2894]  | 0x00de    | **Unitree Go1 Backdoor Control Channel** |
+| [CVE-2025-3459]  | 0x00df    | **ON Semiconductor Quantenna transmit_file Arg Injection** |
+| [CVE-2025-3460]  | 0x00df    | **ON Semiconductor Quantenna set_tx_pow Arg Injection** |
+| [CVE-2025-3461]  | 0x00df    | **ON Semiconductor Quantenna Telent Missing Auth** |
+| [CVE-2025-32455] | 0x00df    | **ON Semiconductor Quantenna Telent Missing Auth** |
+| [CVE-2025-32456] | 0x00df    | **ON Semiconductor Quantenna router_command.sh put_file_to_qtn Arg Injection** |
+| [CVE-2025-32457] | 0x00df    | **ON Semiconductor Quantenna router_command.sh get_file_from_qtn Arg Injection** |
+| [CVE-2025-32458] | 0x00df    | **ON Semiconductor Quantenna router_command.sh get_syslog_from_qtn Arg Injection** |
+| [CVE-2025-32459] | 0x00df    | **ON Semiconductor Quantenna router_command.sh sync_time Arg Injection** |
+| [CVE-2025-35004] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MFIP Arg Injection** |
+| [CVE-2025-35005] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MFMAC Arg Injection** |
+| [CVE-2025-35006] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MFPORTFWD Arg Injection** |
+| [CVE-2025-35007] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MFRULE Arg Injection** |
+| [CVE-2025-35008] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MMNAME Arg Injection** |
+| [CVE-2025-35009] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MNNETSP Arg Injection** |
+| [CVE-2025-35010] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MNPINGTM Arg Injection** |
 
 ## Reserved CVEs
 
@@ -143,3 +158,18 @@ Vulnerabilities involving other parties must be either (1) presented at a regula
 [CVE-2024-2056]: https://korelogic.com/Resources/Advisories/KL-001-2024-004.txt
 [CVE-2024-4224]: {{< baseurl >}}cves/cve-2024-4224/
 [CVE-2025-2894]: {{< baseurl >}}cves/cve-2025-2894/
+[CVE-2025-3459]: {{< baseurl >}}cves/cve-2025-3459/
+[CVE-2025-3460]: {{< baseurl >}}cves/cve-2025-3460/
+[CVE-2025-3461]: {{< baseurl >}}cves/cve-2025-3461/
+[CVE-2025-32455]: {{< baseurl >}}cves/cve-2025-32455/
+[CVE-2025-32456]: {{< baseurl >}}cves/cve-2025-32456/
+[CVE-2025-32457]: {{< baseurl >}}cves/cve-2025-32457/
+[CVE-2025-32458]: {{< baseurl >}}cves/cve-2025-32458/
+[CVE-2025-32459]: {{< baseurl >}}cves/cve-2025-32459/
+[CVE-2025-35004]: {{< baseurl >}}cves/cve-2025-35004/
+[CVE-2025-35005]: {{< baseurl >}}cves/cve-2025-35005/
+[CVE-2025-35006]: {{< baseurl >}}cves/cve-2025-35006/
+[CVE-2025-35007]: {{< baseurl >}}cves/cve-2025-35007/
+[CVE-2025-35008]: {{< baseurl >}}cves/cve-2025-35008/
+[CVE-2025-35009]: {{< baseurl >}}cves/cve-2025-35009/
+[CVE-2025-35010]: {{< baseurl >}}cves/cve-2025-35010/
