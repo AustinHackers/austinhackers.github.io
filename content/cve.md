@@ -95,9 +95,12 @@ For issues involving other parties, please see additional requirements, below. N
 ## Published CVEs
 
 When we publish CVEs, we will tend to use this [template], adjusted to taste.
+
 <style>
 .nowrap-cve-cell-table td:first-child { white-space: nowrap; }
 </style>
+
+### 2023 Disclosures
 
 <div class="nowrap-cve-cell-table">
 
@@ -110,27 +113,38 @@ When we publish CVEs, we will tend to use this [template], adjusted to taste.
 | [CVE-2023-2906]  | 0x00c8    | **Wireshark CP2179 divide by zero** |
 | [CVE-2023-4504]  | 0x00c9    | **CUPS/libppd PostScript Parsing Heap Overflow** |
 | [CVE-2023-5841]  | 0x00cd    | **OpenEXR Heap Overflow in Scanline Deep Data Parsing** |
+
+### 2024 Disclosures
+
+| CVE              | Meeting   | Issue                                      |
+| ---------------- | --------- | ------------------------------------------ |
 | [CVE-2024-2053]  | 0x00d1    | **Artica Proxy Unauthenticated LFI Protection Bypass** |
 | [CVE-2024-2054]  | 0x00d1    | **Artica Proxy Unauthenticated PHP Deserialization** |
 | [CVE-2024-2055]  | 0x00d1    | **Artica Proxy Unauthenticated File Manage** |
 | [CVE-2024-2056]  | 0x00d1    | **Artica Proxy Loopback Services Remotely Accessible Unauthenticated** |
 | [CVE-2024-4224]  | 0x00d3    | **TP-Link TL-SG1016DE XSS** |
+
+### 2025 Disclosures
+
+| CVE              | Meeting   | Issue                                      |
+| ---------------- | --------- | ------------------------------------------ |
 | [CVE-2025-2894]  | 0x00de    | **Unitree Go1 Backdoor Control Channel** |
-| [CVE-2025-3459]  | 0x00df    | **ON Semiconductor Quantenna transmit_file Arg Injection** |
-| [CVE-2025-3460]  | 0x00df    | **ON Semiconductor Quantenna set_tx_pow Arg Injection** |
-| [CVE-2025-3461]  | 0x00df    | **ON Semiconductor Quantenna Telent Missing Auth** |
-| [CVE-2025-32455] | 0x00df    | **ON Semiconductor Quantenna Telent Missing Auth** |
-| [CVE-2025-32456] | 0x00df    | **ON Semiconductor Quantenna router_command.sh put_file_to_qtn Arg Injection** |
-| [CVE-2025-32457] | 0x00df    | **ON Semiconductor Quantenna router_command.sh get_file_from_qtn Arg Injection** |
-| [CVE-2025-32458] | 0x00df    | **ON Semiconductor Quantenna router_command.sh get_syslog_from_qtn Arg Injection** |
-| [CVE-2025-32459] | 0x00df    | **ON Semiconductor Quantenna router_command.sh sync_time Arg Injection** |
-| [CVE-2025-35004] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MFIP Arg Injection** |
-| [CVE-2025-35005] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MFMAC Arg Injection** |
-| [CVE-2025-35006] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MFPORTFWD Arg Injection** |
-| [CVE-2025-35007] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MFRULE Arg Injection** |
-| [CVE-2025-35008] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MMNAME Arg Injection** |
-| [CVE-2025-35009] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MNNETSP Arg Injection** |
-| [CVE-2025-35010] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MNPINGTM Arg Injection** |
+| [CVE-2025-3459]  | 0x00df    | **onsemi Quantenna transmit_file ArgInj** |
+| [CVE-2025-3460]  | 0x00df    | **onsemi Quantenna set_tx_pow ArgInj** |
+| [CVE-2025-3461]  | 0x00df    | **onsemi Quantenna Telent Missing Auth** |
+| [CVE-2025-32455] | 0x00df    | **onsemi Quantenna router_command run_cmd ArgInj** |
+| [CVE-2025-32456] | 0x00df    | **onsemi Quantenna router_command put_file_to_qtn ArgInj** |
+| [CVE-2025-32457] | 0x00df    | **onsemi Quantenna router_command get_file_from_qtn ArgInj** |
+| [CVE-2025-32458] | 0x00df    | **onsemi Quantenna router_command get_syslog_from_qtn ArgInj** |
+| [CVE-2025-32459] | 0x00df    | **onsemi Quantenna router_command sync_time ArgInj** |
+| [CVE-2025-35004] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MFIP ArgInj** |
+| [CVE-2025-35005] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MFMAC ArgInj** |
+| [CVE-2025-35006] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MFPORTFWD ArgInj** |
+| [CVE-2025-35007] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MFRULE ArgInj** |
+| [CVE-2025-35008] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MMNAME ArgInj** |
+| [CVE-2025-35009] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MNNETSP ArgInj** |
+| [CVE-2025-35010] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MNPINGTM ArgInj** |
+
 </div>
 
 ## Reserved CVEs
