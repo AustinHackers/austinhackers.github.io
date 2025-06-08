@@ -114,11 +114,7 @@ When we publish CVEs, we will tend to use this [template], adjusted to taste.
 
 ## Reserved CVEs
 
-We've reserved the following CVEs for upcoming publication.
-
-| CVE             | Meeting   |
-| --------------- | --------- |
-| None yet!       | 0x00xx    |
+We've reserved some number of CVEs, but it's all quite secretive and sneaky to avoid the dreaded [RBP Goblins](https://cve.mitre.org/cve/cna/RBP_Policy_v1-0.pdf). We'll publish when we publish.
 
 ### Contact
 
