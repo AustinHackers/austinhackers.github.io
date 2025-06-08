@@ -96,6 +96,14 @@ For issues involving other parties, please see additional requirements, below. N
 
 When we publish CVEs, we will tend to use this [template], adjusted to taste.
 
+<style>
+.nowrap-cve-cell-table td:first-child { white-space: nowrap; }
+</style>
+
+### 2023 Disclosures
+
+<div class="nowrap-cve-cell-table">
+
 | CVE              | Meeting   | Issue                                      |
 | ---------------- | --------- | ------------------------------------------ |
 | [CVE-2023-0666]  | 0x00c7    | **Wireshark RTPS Parsing Buffer Overflow** |
@@ -105,20 +113,43 @@ When we publish CVEs, we will tend to use this [template], adjusted to taste.
 | [CVE-2023-2906]  | 0x00c8    | **Wireshark CP2179 divide by zero** |
 | [CVE-2023-4504]  | 0x00c9    | **CUPS/libppd PostScript Parsing Heap Overflow** |
 | [CVE-2023-5841]  | 0x00cd    | **OpenEXR Heap Overflow in Scanline Deep Data Parsing** |
+
+### 2024 Disclosures
+
+| CVE              | Meeting   | Issue                                      |
+| ---------------- | --------- | ------------------------------------------ |
 | [CVE-2024-2053]  | 0x00d1    | **Artica Proxy Unauthenticated LFI Protection Bypass** |
 | [CVE-2024-2054]  | 0x00d1    | **Artica Proxy Unauthenticated PHP Deserialization** |
 | [CVE-2024-2055]  | 0x00d1    | **Artica Proxy Unauthenticated File Manage** |
 | [CVE-2024-2056]  | 0x00d1    | **Artica Proxy Loopback Services Remotely Accessible Unauthenticated** |
 | [CVE-2024-4224]  | 0x00d3    | **TP-Link TL-SG1016DE XSS** |
+
+### 2025 Disclosures
+
+| CVE              | Meeting   | Issue                                      |
+| ---------------- | --------- | ------------------------------------------ |
 | [CVE-2025-2894]  | 0x00de    | **Unitree Go1 Backdoor Control Channel** |
+| [CVE-2025-3459]  | 0x00df    | **onsemi Quantenna transmit_file ArgInj** |
+| [CVE-2025-3460]  | 0x00df    | **onsemi Quantenna set_tx_pow ArgInj** |
+| [CVE-2025-3461]  | 0x00df    | **onsemi Quantenna Telent Missing Auth** |
+| [CVE-2025-32455] | 0x00df    | **onsemi Quantenna router_command run_cmd ArgInj** |
+| [CVE-2025-32456] | 0x00df    | **onsemi Quantenna router_command put_file_to_qtn ArgInj** |
+| [CVE-2025-32457] | 0x00df    | **onsemi Quantenna router_command get_file_from_qtn ArgInj** |
+| [CVE-2025-32458] | 0x00df    | **onsemi Quantenna router_command get_syslog_from_qtn ArgInj** |
+| [CVE-2025-32459] | 0x00df    | **onsemi Quantenna router_command sync_time ArgInj** |
+| [CVE-2025-35004] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MFIP ArgInj** |
+| [CVE-2025-35005] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MFMAC ArgInj** |
+| [CVE-2025-35006] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MFPORTFWD ArgInj** |
+| [CVE-2025-35007] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MFRULE ArgInj** |
+| [CVE-2025-35008] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MMNAME ArgInj** |
+| [CVE-2025-35009] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MNNETSP ArgInj** |
+| [CVE-2025-35010] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MNPINGTM ArgInj** |
+
+</div>
 
 ## Reserved CVEs
 
-We've reserved the following CVEs for upcoming publication.
-
-| CVE             | Meeting   |
-| --------------- | --------- |
-| None yet!       | 0x00xx    |
+We've reserved some number of CVEs, but it's all quite secretive and sneaky to avoid the dreaded [RBP Goblins](https://cve.mitre.org/cve/cna/RBP_Policy_v1-0.pdf). We'll publish when we publish.
 
 ### Contact
 
@@ -147,3 +178,18 @@ Vulnerabilities involving other parties must be either (1) presented at a regula
 [CVE-2024-2056]: https://korelogic.com/Resources/Advisories/KL-001-2024-004.txt
 [CVE-2024-4224]: {{< baseurl >}}cves/cve-2024-4224/
 [CVE-2025-2894]: {{< baseurl >}}cves/cve-2025-2894/
+[CVE-2025-3459]: {{< baseurl >}}cves/cve-2025-3459/
+[CVE-2025-3460]: {{< baseurl >}}cves/cve-2025-3460/
+[CVE-2025-3461]: {{< baseurl >}}cves/cve-2025-3461/
+[CVE-2025-32455]: {{< baseurl >}}cves/cve-2025-32455/
+[CVE-2025-32456]: {{< baseurl >}}cves/cve-2025-32456/
+[CVE-2025-32457]: {{< baseurl >}}cves/cve-2025-32457/
+[CVE-2025-32458]: {{< baseurl >}}cves/cve-2025-32458/
+[CVE-2025-32459]: {{< baseurl >}}cves/cve-2025-32459/
+[CVE-2025-35004]: {{< baseurl >}}cves/cve-2025-35004/
+[CVE-2025-35005]: {{< baseurl >}}cves/cve-2025-35005/
+[CVE-2025-35006]: {{< baseurl >}}cves/cve-2025-35006/
+[CVE-2025-35007]: {{< baseurl >}}cves/cve-2025-35007/
+[CVE-2025-35008]: {{< baseurl >}}cves/cve-2025-35008/
+[CVE-2025-35009]: {{< baseurl >}}cves/cve-2025-35009/
+[CVE-2025-35010]: {{< baseurl >}}cves/cve-2025-35010/
