@@ -95,6 +95,11 @@ For issues involving other parties, please see additional requirements, below. N
 ## Published CVEs
 
 When we publish CVEs, we will tend to use this [template], adjusted to taste.
+<style>
+.nowrap-cve-cell-table td:first-child { white-space: nowrap; }
+</style>
+
+<div class="nowrap-cve-cell-table">
 
 | CVE              | Meeting   | Issue                                      |
 | ---------------- | --------- | ------------------------------------------ |
@@ -126,6 +131,7 @@ When we publish CVEs, we will tend to use this [template], adjusted to taste.
 | [CVE-2025-35008] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MMNAME Arg Injection** |
 | [CVE-2025-35009] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MNNETSP Arg Injection** |
 | [CVE-2025-35010] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MNPINGTM Arg Injection** |
+</div>
 
 ## Reserved CVEs
 
