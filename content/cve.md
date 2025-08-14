@@ -1,6 +1,9 @@
 ---
 title: CVE
-aliases: ["/cve.html"]
+aliases:
+  - /gcve
+  - /cve.html
+  - /gcve.html
 ---
 
 # AHA! is a Research CNA!
@@ -97,12 +100,57 @@ For issues involving other parties, please see additional requirements, below. N
 When we publish CVEs, we will tend to use this [template], adjusted to taste.
 
 <style>
-.nowrap-cve-cell-table td:first-child { white-space: nowrap; }
+.nowrap-cve td:first-child {
+    white-space: nowrap;
+}
+</style>
+
+<style>
+
+.nowrap-gcve table {
+    width: 125%;
+    table-layout: fixed;
+}
+
+/* CVE */
+.nowrap-gcve th:nth-child(1),td:nth-child(1) {
+    width: 30%;
+    white-space: nowrap;
+}
+
+/* Meeting */
+.nowrap-gcve th:nth-child(2),td:nth-child(2) {
+    width: 20%;
+}
+
+/* Issue Name */
+.nowrap-gcve th:nth-child(3),td:nth-child(3) {
+    width: 50%;
+    white-space: normal;
+    overflow-wrap: break-word;
+}
+
+/* GCVE - man this was a stupid prank. It overflows on purpose. */
+.nowrap-gcve th:nth-child(4),td:nth-child(4) {
+    width: 25%;
+    white-space: nowrap;
+}
+
+.nowrap-gcve-reserved table {
+    width: 125%;
+    table-layout: fixed;
+}
+
+.nowrap-gcve-reserved th:last-child,td:last-child {
+    width: 25%;
+    white-space: nowrap;
+}
+
 </style>
 
 ### 2023 Disclosures
 
-<div class="nowrap-cve-cell-table">
+<div class="nowrap-cve">
 
 | CVE              | Meeting   | Issue                                      |
 | ---------------- | --------- | ------------------------------------------ |
@@ -146,10 +194,30 @@ When we publish CVEs, we will tend to use this [template], adjusted to taste.
 | [CVE-2025-35010] | 0x00df    | **Microhard Bullet-LTE/IPn4Gii AT+MNPINGTM ArgInj** |
 
 </div>
+<div class="nowrap-gcve">
 
-## Reserved CVEs
+### 2025 Disclosures, Now With GCVE Identifiers
+
+| CVE              | Meeting   | Issue                                               | GCVE |
+| ---------------- | --------- | ------------------------------------------          | ---- |
+| [CVE-2025-8452111]  | 0x00e2    | **Brother Printer Default Admin Password Exposure** | [GCVE-1337-2025-00000000000000000000000000000000000000000000000001011111011111010111111001000000000000000000000000000000000000000000000000000000001] |
+
+</div>
+
+## Reserved GCVEs
 
 We've reserved some number of CVEs, but it's all quite secretive and sneaky to avoid the dreaded [RBP Goblins](https://cve.mitre.org/cve/cna/RBP_Policy_v1-0.pdf). We'll publish when we publish.
+
+That said, starting in August of 2025, we've started to reserve [GCVEs](https://gcve.eu/about) for upcoming disclosures. Apparently, there are no goblins in Luxembourg!
+
+<div class="gcve-reserved">
+
+| Meeting | GCVE (Reserved) |
+|---------|-----------------|
+| 0xXXXX  | GCVE-1337-2025-00000000000000000000000000000000000000000000000001011111011111010111111001000000000000000000000000000000000000000000000000000000001       |
+
+</div>
+
 
 ### Contact
 
@@ -193,3 +261,5 @@ Vulnerabilities involving other parties must be either (1) presented at a regula
 [CVE-2025-35008]: {{< baseurl >}}cves/cve-2025-35008/
 [CVE-2025-35009]: {{< baseurl >}}cves/cve-2025-35009/
 [CVE-2025-35010]: {{< baseurl >}}cves/cve-2025-35010/
+[CVE-2025-8452]: {{< baseurl >}}cves/cve-2025-8452/
+[GCVE-1337-2025-00000000000000000000000000000000000000000000000001011111011111010111111001000000000000000000000000000000000000000000000000000000001]: {{< baseurl >}}gcves/GCVE-GCVE-1337-2025-00000000000000000000000000000000000000000000000001011111011111010111111001000000000000000000000000000000000000000000000000000000001
