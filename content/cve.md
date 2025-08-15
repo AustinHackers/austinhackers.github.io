@@ -136,13 +136,22 @@ When we publish CVEs, we will tend to use this [template], adjusted to taste.
     white-space: nowrap;
 }
 
+/* Reserved Table */
+
 .nowrap-gcve-reserved table {
-    width: 125%;
+    width: 100%;
     table-layout: fixed;
 }
 
-.nowrap-gcve-reserved th:last-child,td:last-child {
+/* Meeting ID */
+.nowrap-gcve-reserved th:first-child,td:first-child {
     width: 25%;
+    white-space: nowrap;
+}
+
+/* GCVE ID */
+.nowrap-gcve-reserved th:last-child,td:last-child {
+    width: 75%;
     white-space: nowrap;
 }
 
@@ -210,11 +219,11 @@ We've reserved some number of CVEs, but it's all quite secretive and sneaky to a
 
 That said, starting in August of 2025, we've started to reserve [GCVEs](https://gcve.eu/about) for upcoming disclosures. Apparently, there are no goblins in Luxembourg!
 
-<div class="gcve-reserved">
+<div class="nowrap-gcve-reserved">
 
 | Meeting | GCVE (Reserved) |
 |---------|-----------------|
-| 0xXXXX  | GCVE-1337-2025-00000000000000000000000000000000000000000000000001011111011111010111111001000000000000000000000000000000000000000000000000000000001       |
+| 0xXXXX  | None yet!       | GCVE-1337-2025-00000000000000000000000000000000000000000000000001011111011111010111111001000000000000000000000000000000000000000000000000000000001       |
 
 </div>
 
