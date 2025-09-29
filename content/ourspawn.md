@@ -23,14 +23,13 @@ Please note that we do not have direct affiliation to these groups and
 they may operate under their own rules and policies. Please review their
 websites for additional information.
 
-[BAHA]: http://baha.bitrot.info/
-[CSHA]: http://csha.reversing.us/
+[BAHA]: https://theuselessweb.com/?deadlink=http://baha.bitrot.info/
+[CSHA]: https://theuselessweb.com/?deadlink=http://csha.reversing.us/
 [DHA]: http://www.meetup.com/Dallas-Hackers-Association/
 [NoVAH]: https://novahackers.com/
-[PSSH]: http://groups.google.com/group/phxSSH?hl=en
+[PSSH]: https://theuselessweb.com/?deadlink=http://groups.google.com/group/phxSSH?hl=en
 [SAHA]: http://satxhackers.org/
 [TWH]: http://www.thewoodlandshackers.com/
-[CHA-HA]: http://cha-ha.com/
+[CHA-HA]: https://theuselessweb.com/?deadlink=http://cha-ha.com/
 [HAHA]: http://www.meetup.com/Houston-Area-Hackers-Association/
 [FHA]: http://fxbghackers.com
-
