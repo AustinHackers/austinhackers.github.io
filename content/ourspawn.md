@@ -7,15 +7,15 @@ There have been a number of sibling groups that have spawned from AHA!,
 generally emulating the turbo-talk style meeting format and attempting
 to conform to an exclamation acronym of some form:
 
-- [BAHA!][BAHA] Bay Area Hackers Association
-- [CSHA][CSHA] - Colorado Springs Hackers Anonymous
+- [BAHA!][BAHA] Bay Area Hackers Association (defunct)
+- [CSHA][CSHA] - Colorado Springs Hackers Anonymous (defunct)
 - [DHA][DHA] - Dallas Hackers Association
 - [HAHA!][HAHA] - Houston Area Hackers Anonymous
 - [NoVAH!][NoVAH] - Northern Virginia Hackers
-- [PSSH!][PSSH] - Phoenix Secret Society of Hackers
+- [PSSH!][PSSH] - Phoenix Secret Society of Hackers (defunct)
 - [SAHA!][SAHA] - San Antonio Hackers Association
 - [TWH][TWH] - The Woodlands Hacker Association
-- [CHA-HA][CHA-HA] - Charlotte Hackers Anonymous
+- [CHA-HA][CHA-HA] - Charlotte Hackers Anonymous (defunct)
 - SHA0 - Seattle Hackers Anonymous
 - [FHA] - Fredericksburg Hackers Association
 
