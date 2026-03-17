@@ -1,4 +1,5 @@
 Contact: mailto:aha@takeonme.org
-Expires: 2038-12-31T15:00:00.000Z
+Expires: 2027-03-17T00:00:00.000Z
+Policy: https://takeonme.org/cve/
 Preferred-Languages: en
 Canonical: https://takeonme.org/.well-known/security.txt
