@@ -60,7 +60,9 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        # Pinned to v3: v4 excludes dotfile directories (.well-known/) from the
+        # tar archive. Upstream fix: actions/upload-pages-artifact#137
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
