@@ -4,41 +4,27 @@ aliases: ["/chat.html"]
 ---
 
 While traditionally the best way to communicate in AHA was the [mailing
-list](mailinglist), now the most common place to find us
-is on chat. We can be found via a number of private or invite services.
+list](mailinglist), now the most common place to find us is on chat.
 
-### Discord (public'ish)
-* Invite: [discord.gg/yMvbvst](https://discord.gg/yMvbvst)
-* Channel: aha-public
-* AHA! Members should ask for role to access aha-private
-* Note: This is a shared server and contains members of [Our Spawn](ourspawn)
-* Note: The aha-public channel is bridged between Discord, Matrix and IRC
+aha-public and aha-private channels are bridged across Discord, Matrix, and IRC.
 
-### Matrix (public'ish)
-* Invite: [https://matrix.to/#/@aha:takeonme.org](https://matrix.to/#/@aha:takeonme.org)
-* Channel: aha-public
-* AHA! Members should ask for role to access aha-private
-* Note: The aha-public channel is bridged between Discord, Matrix and IRC
+| Service | Join | Public | Private |
+|---------|------|--------|---------|
+| Discord | [discord.gg/yMvbvst](https://discord.gg/yMvbvst) | #aha-public | #aha-private |
+| Matrix | [AHA (Space)](https://matrix.to/#/#aha:takeonme.org) | [#aha-public](https://matrix.to/#/#aha-public:takeonme.org) | [AHA Private Rooms (Space)](https://matrix.to/#/#aha-private-rooms:takeonme.org) |
+| IRC | irc.libera.chat:6697 (SSL) | none | #AHA (key required) |
 
-### IRC (private)
-* Server: irc.libera.chat:6697 (SSL)
-* Channel: #AHA
-* Channel key required
-* Note: The aha-public channel is bridged between Discord, Matrix and IRC
+The Discord server is shared with [Our Spawn](ourspawn).
 
 Please read and follow the server rules. Do not ask stupid questions like, "How
 do I hack X" or showing up to simply cause drama. This is a good place to talk
 to speakers from past meetings about their projects, or to look for feedback on
 your own talk.
 
-## FAQ
+## How do I gain membership?
 
-* All of the above chat methods are linked together. There are a number of private
-member channels (e.g. #aha-private) that are also bridgedtogether. However, only
-members in good standing will be granted access upon request.
-
-**How do I gain membership?**
+Private channels are available to members in good standing upon request.
 
 1. Speak at a [meeting](meetings) and socialize.
 2. Ask in #aha-public on Discord for member roles, if you've met the
-qualifications
+qualifications.
