@@ -5,7 +5,14 @@ aliases: ["/meetings.html"]
 
 Our technical meetings are nearly always held the last Thursday of every month, from 7pm-9pm at Mister Tramps Sports Pub (8565 Research Blvd, Austin, TX  78758).
 
-To access our meeting room, enter through the front doors of Mister Tramps and head straight towards the back. Either the huge sliding door will be open (you arrived early) or it will be closed (do not open it). If the sliding door is closed, head to the left of the sliding door and enter the small door leading to the bathroom hallway. Through the door and down the hall on your right is the door to the meeting room. This is the only door you should use. DO NOT use the staff service entrance to the left of the bar. See the [Mister Tramps](http://mistertramps.com/) site for details on the venue. Here's a [map](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=mister+tramps&aq=&sll=30.395835,-97.698202&sspn=0.012678,0.018432&ie=UTF8&hq=mister+tramps&hnear=&ll=30.3616,-97.717338&spn=0.012683,0.018432&z=16&iwloc=A). The bistro is on the northbound side of 183-N, between Lamar and Burnet.
+To access our meeting room:
+
+- Enter through the front doors of Mister Tramps and head straight towards the back.
+- If the huge sliding door is open, you arrived early — head on in.
+- If the sliding door is closed, **do not open it**. Head to the left of the sliding door and enter the small door leading to the bathroom hallway. Down the hall on your right is the door to the meeting room.
+- This is the only door you should use. **Do not** use the staff service entrance to the left of the bar.
+
+See the [Mister Tramps](http://mistertramps.com/) site for details on the venue. Here's a [map](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=mister+tramps&aq=&sll=30.395835,-97.698202&sspn=0.012678,0.018432&ie=UTF8&hq=mister+tramps&hnear=&ll=30.3616,-97.717338&spn=0.012683,0.018432&z=16&iwloc=A). The venue is on the northbound side of 183-N, between Lamar and Burnet.
 
 Food and drinks will still be permissible at the meeting, provided you purchase said food and drinks from Mister Tramps. When you are not consuming food or drinks, appropriate masking is **strongly encouraged** while indoors.
 
