@@ -20,6 +20,8 @@ Secondly, it means that we'll occasionally publish artisanal, bespoke CVE entrie
 
 Our VDP is derived from the [disclose.io](https://policymaker.disclose.io/policymaker/introduction) Policymaker, edited to cover vulnerability reports involving other parties.
 
+Our disclosure [template] is CC-BY 4.0 licensed. Use this if you're expecting to disclose bugs.
+
 ## Vulnerability Disclosure Policy
 
 AHA! welcomes feedback from security researchers and the general public to help improve our security and the security of the internet in general. Click the below to read more about that.
@@ -101,7 +103,7 @@ For issues involving other parties, please see additional requirements, below. N
 
 ## Published CVEs
 
-When we publish CVEs, we will tend to use this [template], adjusted to taste.
+When we publish CVEs, we will tend to use this [template] (which [renders like this]), adjusted to taste.
 
 <style>
 .nowrap-cve td:first-child {
@@ -260,7 +262,8 @@ Vulnerabilities involving other parties must be either (1) presented at a regula
 [MITRE]: https://www.cve.org/PartnerInformation/ListofPartners/partner/mitre
 [meeting]: {{< baseurl >}}meetings
 [meetings]: {{< baseurl >}}meetings
-[template]: {{< baseurl >}}cves/cve-20xx-yyyy/
+[template]: https://raw.githubusercontent.com/AustinHackers/austinhackers.github.io/refs/heads/main/content/cves/CVE-20XX-YYYY.md
+[renders like this]: {{< baseurl >}}cves/cve-20xx-yyyy/ 
 [CVE-2023-0666]: {{< baseurl >}}cves/cve-2023-0666/
 [CVE-2023-0667]: {{< baseurl >}}cves/cve-2023-0667/
 [CVE-2023-0668]: {{< baseurl >}}cves/cve-2023-0668/
