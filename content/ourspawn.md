@@ -16,7 +16,7 @@ to conform to an exclamation acronym of some form:
 - [SAHA!][SAHA] - San Antonio Hackers Association
 - [TWH][TWH] - The Woodlands Hacker Association
 - [CHA-HA][CHA-HA] - Charlotte Hackers Anonymous (defunct)
-- SHA0 - Seattle Hackers Anonymous
+- [SHA0][SHA0] - Seattle Hackers Anonymous
 - [FHA] - Fredericksburg Hackers Association
 
 Please note that we do not have direct affiliation to these groups and
@@ -33,3 +33,4 @@ websites for additional information.
 [CHA-HA]: https://theuselessweb.com/?deadlink=http://cha-ha.com/
 [HAHA]: http://www.meetup.com/Houston-Area-Hackers-Association/
 [FHA]: http://fxbghackers.com
+[SHA0]: https://seattlehackers.net
