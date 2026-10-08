@@ -260,7 +260,7 @@ Vulnerabilities involving other parties must be either (1) presented at a regula
 [MITRE]: https://www.cve.org/PartnerInformation/ListofPartners/partner/mitre
 [meeting]: {{< baseurl >}}meetings
 [meetings]: {{< baseurl >}}meetings
-[template]: https://github.com/AustinHackers/austinhackers.github.io/blob/main/content/cves/CVE-20XX-YYYY.md
+[template]: https://raw.githubusercontent.com/AustinHackers/austinhackers.github.io/refs/heads/main/content/cves/CVE-20XX-YYYY.md
 [CVE-2023-0666]: {{< baseurl >}}cves/cve-2023-0666/
 [CVE-2023-0667]: {{< baseurl >}}cves/cve-2023-0667/
 [CVE-2023-0668]: {{< baseurl >}}cves/cve-2023-0668/
