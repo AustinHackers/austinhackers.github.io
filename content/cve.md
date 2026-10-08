@@ -101,7 +101,7 @@ For issues involving other parties, please see additional requirements, below. N
 
 ## Published CVEs
 
-When we publish CVEs, we will tend to use this [template], adjusted to taste.
+When we publish CVEs, we will tend to use this [template] (here it is [rendered]). Base64 embedded images means never breaking an `img` link ever!
 
 <style>
 .nowrap-cve td:first-child {
@@ -260,7 +260,8 @@ Vulnerabilities involving other parties must be either (1) presented at a regula
 [MITRE]: https://www.cve.org/PartnerInformation/ListofPartners/partner/mitre
 [meeting]: {{< baseurl >}}meetings
 [meetings]: {{< baseurl >}}meetings
-[template]: {{< baseurl >}}cves/cve-20xx-yyyy/
+[template]: https://raw.githubusercontent.com/AustinHackers/austinhackers.github.io/refs/heads/main/content/cves/CVE-20XX-YYYY.md
+[rendered]: {{< baseurl >}}cves/cve-20xx-yyyy/
 [CVE-2023-0666]: {{< baseurl >}}cves/cve-2023-0666/
 [CVE-2023-0667]: {{< baseurl >}}cves/cve-2023-0667/
 [CVE-2023-0668]: {{< baseurl >}}cves/cve-2023-0668/
