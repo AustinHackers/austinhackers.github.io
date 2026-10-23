@@ -12,7 +12,7 @@ aha-public and aha-private channels are bridged across Discord, Matrix, and IRC.
 |---------|------|--------|---------|
 | Discord | [discord.gg/yMvbvst](https://discord.gg/yMvbvst) | #aha-public | #aha-private |
 | Matrix | [AHA (Space)](https://matrix.to/#/#aha:takeonme.org) | [#aha-public](https://matrix.to/#/#aha-public:takeonme.org) | [AHA Private Rooms (Space)](https://matrix.to/#/#aha-private-rooms:takeonme.org) |
-| IRC | irc.libera.chat:6697 (SSL) | none | #AHA (key required) |
+| IRC | irc.libera.chat:6697 (SSL) | #aha-public | #AHA (key required) |
 
 The Discord server is shared with [Our Spawn](ourspawn).
 
