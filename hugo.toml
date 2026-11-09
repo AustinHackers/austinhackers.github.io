@@ -134,6 +134,11 @@ pagination.pagerSize = 5
 				    weight = 15 
 
 				[[languages.en.menu.main]]
+				    name = "Radio Club"
+				    url  = "/radioclub/"
+				    weight = 16
+
+				[[languages.en.menu.main]]
 				    name = "Contact"
 				    url  = "/contact/"
 				    weight =17 
