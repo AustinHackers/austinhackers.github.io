@@ -415,10 +415,6 @@ css-functions-list@^3.1.0:
   version "3.1.0"
   resolved "https://registry.npmjs.org/css-functions-list/-/css-functions-list-3.1.0.tgz"
 
-cssesc@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.npmjs.org/cssesc/-/cssesc-3.0.0.tgz"
-
 damerau-levenshtein@^1.0.7:
   version "1.0.8"
   resolved "https://registry.npmjs.org/damerau-levenshtein/-/damerau-levenshtein-1.0.8.tgz"
@@ -1458,10 +1454,9 @@ postcss-scss@^4.0.2:
   resolved "https://registry.npmjs.org/postcss-scss/-/postcss-scss-4.0.5.tgz"
 
 postcss-selector-parser@^6.0.10, postcss-selector-parser@^6.0.6:
-  version "6.0.10"
-  resolved "https://registry.npmjs.org/postcss-selector-parser/-/postcss-selector-parser-6.0.10.tgz"
+  version "6.1.6"
+  resolved "https://registry.yarnpkg.com/postcss-selector-parser/-/postcss-selector-parser-6.1.6.tgz#b2dbe250e407e5334ee2e8f0ef8b2e6d164fde7e"
   dependencies:
-    cssesc "^3.0.0"
     util-deprecate "^1.0.2"
 
 postcss-value-parser@^4.1.0, postcss-value-parser@^4.2.0:
