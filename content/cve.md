@@ -252,7 +252,7 @@ That said, starting in August of 2025, we've started to reserve [GCVEs](https://
 
 | Meeting | GCVE (Reserved) |
 |---------|-----------------|
-| 0xXXXX  | None yet!       |
+| 0x00f2  | GCVE-1337-2026-00000000000000111111111111111111111000000000000000000011111101010111111100000000000000000000011111111111111111111000000000000010101     |
 
 </div>
 
